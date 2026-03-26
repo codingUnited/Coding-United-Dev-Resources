@@ -1,0 +1,130 @@
+{
+  "Title": "PHP",
+  "Overview": "PHP is a server-side scripting language widely used for web development.",
+  "Key Features": [
+    "- Easy to deploy",
+    "- Large ecosystem",
+    "- Powers WordPress and many CMS platforms"
+  ],
+  "Basic Syntax": "```php\n<?php\necho \"Hello, PHP!\";\n?>\n```",
+  "Beginner PHP Learning": [
+    "[PHP Official Site](https://www.php.net)",
+    "[PHP Manual](https://www.php.net/manual/en)",
+    "[W3Schools PHP](https://www.w3schools.com/php)",
+    "[freeCodeCamp PHP](https://www.freecodecamp.org)",
+    "[Programiz PHP](https://www.programiz.com/php)",
+    "[GeeksforGeeks PHP](https://www.geeksforgeeks.org/php)",
+    "[TutorialsPoint PHP](https://www.tutorialspoint.com/php)",
+    "[Learn PHP Online](https://www.learn-php.org)",
+    "[SoloLearn PHP](https://www.sololearn.com)",
+    "[PHP The Right Way](https://phptherightway.com)"
+  ],
+  "PHP Coding Practice": [
+    "[LeetCode](https://leetcode.com)",
+    "[HackerRank](https://www.hackerrank.com)",
+    "[Codewars](https://www.codewars.com)",
+    "[CodeSignal](https://codesignal.com)",
+    "[Exercism](https://exercism.org)",
+    "[Project Euler](https://projecteuler.net)",
+    "[Edabit](https://edabit.com)",
+    "[HackerEarth](https://www.hackerearth.com)",
+    "[Kattis](https://open.kattis.com)",
+    "[CodingBat](https://codingbat.com)"
+  ],
+  "PHP Documentation & References": [
+    "[PHP Docs](https://www.php.net/docs.php)",
+    "[PHP Manual](https://www.php.net/manual)",
+    "[PHP RFCs](https://wiki.php.net/rfc)",
+    "[PHP Internals](https://www.phpinternalsbook.com)",
+    "[PHP Style Guide](https://www.php-fig.org/psr)",
+    "[PHP-FIG](https://www.php-fig.org)",
+    "[DigitalOcean PHP Tutorials](https://www.digitalocean.com/community/tutorials)",
+    "[Stack Abuse PHP](https://stackabuse.com)",
+    "[GeeksforGeeks PHP](https://www.geeksforgeeks.org/php)",
+    "[TutorialsPoint PHP](https://www.tutorialspoint.com/php)"
+  ],
+  "PHP Development Tools": [
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[PHPStorm](https://www.jetbrains.com/phpstorm)",
+    "[XAMPP](https://www.apachefriends.org)",
+    "[MAMP](https://www.mamp.info)",
+    "[WAMP](https://www.wampserver.com)",
+    "[Composer](https://getcomposer.org)",
+    "[PHP Sandbox](https://sandbox.onlinephpfunctions.com)",
+    "[Replit](https://replit.com)",
+    "[OnlineGDB](https://www.onlinegdb.com)",
+    "[Docker](https://www.docker.com)"
+  ],
+  "PHP Frameworks": [
+    "[Laravel](https://laravel.com)",
+    "[Symfony](https://symfony.com)",
+    "[CodeIgniter](https://codeigniter.com)",
+    "[CakePHP](https://cakephp.org)",
+    "[Yii Framework](https://www.yiiframework.com)",
+    "[Slim Framework](https://www.slimframework.com)",
+    "[Laminas](https://getlaminas.org)",
+    "[Phalcon](https://phalcon.io)",
+    "[FuelPHP](https://fuelphp.com)",
+    "[Swoole](https://www.swoole.co.uk)"
+  ],
+  "PHP CMS Platforms": [
+    "[WordPress](https://wordpress.org)",
+    "[Drupal](https://www.drupal.org)",
+    "[Joomla](https://www.joomla.org)",
+    "[Magento](https://magento.com)",
+    "[October CMS](https://octobercms.com)",
+    "[Grav CMS](https://getgrav.org)",
+    "[TYPO3](https://typo3.org)",
+    "[PrestaShop](https://www.prestashop.com)",
+    "[OpenCart](https://www.opencart.com)",
+    "[Concrete CMS](https://www.concretecms.org)"
+  ],
+  "PHP Backend & API Development": [
+    "[Laravel API](https://laravel.com/docs/api)",
+    "[Symfony API Platform](https://api-platform.com)",
+    "[Slim Framework](https://www.slimframework.com)",
+    "[Lumen](https://lumen.laravel.com)",
+    "[GraphQL PHP](https://webonyx.github.io/graphql-php)",
+    "[Guzzle HTTP](https://docs.guzzlephp.org)",
+    "[Ratchet WebSockets](http://socketo.me)",
+    "[Redis PHP](https://github.com/phpredis/phpredis)",
+    "[MongoDB PHP](https://www.mongodb.com/docs/drivers/php)",
+    "[PHP FastCGI](https://www.php.net/manual/en/install.fpm.php)"
+  ],
+  "PHP Testing & Quality": [
+    "[PHPUnit](https://phpunit.de)",
+    "[Pest PHP](https://pestphp.com)",
+    "[Codeception](https://codeception.com)",
+    "[PHPSpec](https://www.phpspec.net)",
+    "[Behat](https://behat.org)",
+    "[PHPStan](https://phpstan.org)",
+    "[Psalm](https://psalm.dev)",
+    "[PHPMD](https://phpmd.org)",
+    "[PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)",
+    "[Infection PHP](https://infection.github.io)"
+  ],
+  "PHP DevOps & Deployment": [
+    "[Docker](https://www.docker.com)",
+    "[Kubernetes](https://kubernetes.io)",
+    "[GitHub Actions](https://github.com/features/actions)",
+    "[GitLab CI](https://about.gitlab.com)",
+    "[CircleCI](https://circleci.com)",
+    "[AWS PHP SDK](https://aws.amazon.com/sdk-for-php)",
+    "[Forge](https://forge.laravel.com)",
+    "[Envoyer](https://envoyer.io)",
+    "[Terraform](https://www.terraform.io)",
+    "[Nginx](https://nginx.org)"
+  ],
+  "PHP Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit PHP](https://www.reddit.com/r/PHP)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[PHP Internals](https://externals.io)",
+    "[PHP Weekly](https://phpweekly.com)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)",
+    "[Hashnode](https://hashnode.com)"
+  ]
+}
