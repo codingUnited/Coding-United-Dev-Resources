@@ -1,0 +1,118 @@
+{
+  "Title": "MATLAB",
+  "Overview": "MATLAB is a numerical computing environment widely used in engineering.",
+  "Key Features": [
+    "- Matrix-first design",
+    "- Built-in visualization",
+    "- Strong toolboxes"
+  ],
+  "Basic Syntax": "```matlab\ndisp(\"Hello, MATLAB!\")\n```",
+  "Beginner MATLAB Learning": [
+    "[MATLAB Official Site](https://www.mathworks.com/products/matlab.html)",
+    "[MATLAB Documentation](https://www.mathworks.com/help/matlab)",
+    "[MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp)",
+    "[MATLAB Tutorials](https://www.mathworks.com/learn/tutorials)",
+    "[freeCodeCamp MATLAB](https://www.freecodecamp.org)",
+    "[W3Schools MATLAB](https://www.w3schools.com/matlab)",
+    "[Programiz MATLAB](https://www.programiz.com/matlab)",
+    "[GeeksforGeeks MATLAB](https://www.geeksforgeeks.org/matlab)",
+    "[TutorialsPoint MATLAB](https://www.tutorialspoint.com/matlab)",
+    "[MATLAB Central](https://www.mathworks.com/matlabcentral)"
+  ],
+  "MATLAB Coding Practice": [
+    "[MATLAB Cody](https://www.mathworks.com/matlabcentral/cody)",
+    "[HackerRank](https://www.hackerrank.com)",
+    "[Codewars](https://www.codewars.com)",
+    "[LeetCode](https://leetcode.com)",
+    "[CodeSignal](https://codesignal.com)",
+    "[Project Euler](https://projecteuler.net)",
+    "[Edabit](https://edabit.com)",
+    "[HackerEarth](https://www.hackerearth.com)",
+    "[Kattis](https://open.kattis.com)",
+    "[Exercism](https://exercism.org)"
+  ],
+  "MATLAB Documentation & References": [
+    "[MATLAB Docs](https://www.mathworks.com/help)",
+    "[MATLAB Language Reference](https://www.mathworks.com/help/matlab/language-fundamentals.html)",
+    "[MATLAB Functions](https://www.mathworks.com/help/matlab/ref)",
+    "[MATLAB Central File Exchange](https://www.mathworks.com/matlabcentral/fileexchange)",
+    "[MATLAB Blog](https://blogs.mathworks.com)",
+    "[MATLAB Examples](https://www.mathworks.com/help/examples)",
+    "[MATLAB Cheat Sheets](https://www.mathworks.com/support/learn-with-matlab-tutorials.html)",
+    "[DigitalOcean MATLAB Tutorials](https://www.digitalocean.com/community/tutorials)",
+    "[Stack Abuse MATLAB](https://stackabuse.com)",
+    "[MATLAB Documentation Hub](https://www.mathworks.com/help/index.html)"
+  ],
+  "MATLAB Development Tools": [
+    "[MATLAB Desktop](https://www.mathworks.com/products/matlab.html)",
+    "[MATLAB Online](https://matlab.mathworks.com)",
+    "[MATLAB Live Editor](https://www.mathworks.com/help/matlab/live-scripts-and-functions.html)",
+    "[Simulink](https://www.mathworks.com/products/simulink.html)",
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[Jupyter Notebook](https://jupyter.org)",
+    "[MATLAB Compiler](https://www.mathworks.com/products/compiler.html)",
+    "[MATLAB Coder](https://www.mathworks.com/products/matlab-coder.html)",
+    "[MATLAB Engine API](https://www.mathworks.com/help/matlab/matlab-engine-for-python.html)",
+    "[GitHub Codespaces](https://github.com/features/codespaces)"
+  ],
+  "Data Analysis & Visualization": [
+    "[MATLAB Plotting](https://www.mathworks.com/help/matlab/plotting)",
+    "[MATLAB Graphics](https://www.mathworks.com/help/matlab/graphics)",
+    "[MATLAB Data Import](https://www.mathworks.com/help/matlab/import_export)",
+    "[MATLAB Data Tables](https://www.mathworks.com/help/matlab/tables)",
+    "[MATLAB Statistics Toolbox](https://www.mathworks.com/products/statistics.html)",
+    "[MATLAB Chart Gallery](https://www.mathworks.com/help/matlab/examples)",
+    "[MATLAB Graphs](https://www.mathworks.com/help/matlab/graph-and-network-algorithms.html)",
+    "[MATLAB Mapping Toolbox](https://www.mathworks.com/products/mapping.html)",
+    "[MATLAB Visualization Examples](https://www.mathworks.com/help/examples/matlab/data-analysis)",
+    "[MATLAB Data Visualization Blog](https://blogs.mathworks.com/graphics)"
+  ],
+  "Machine Learning & AI": [
+    "[MATLAB Machine Learning Toolbox](https://www.mathworks.com/products/statistics.html)",
+    "[Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html)",
+    "[Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html)",
+    "[Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html)",
+    "[MATLAB AI Examples](https://www.mathworks.com/help/deeplearning/examples.html)",
+    "[TensorFlow MATLAB](https://www.mathworks.com/help/deeplearning)",
+    "[MATLAB Predictive Analytics](https://www.mathworks.com/solutions/predictive-analytics.html)",
+    "[MATLAB Data Science](https://www.mathworks.com/solutions/data-science.html)",
+    "[MATLAB AI Tutorials](https://matlabacademy.mathworks.com)",
+    "[MATLAB ML Blog](https://blogs.mathworks.com/deep-learning)"
+  ],
+  "Engineering Simulation & Modeling": [
+    "[Simulink](https://www.mathworks.com/products/simulink.html)",
+    "[Simscape](https://www.mathworks.com/products/simscape.html)",
+    "[Control Systems Toolbox](https://www.mathworks.com/products/control.html)",
+    "[Signal Processing Toolbox](https://www.mathworks.com/products/signal.html)",
+    "[Robotics System Toolbox](https://www.mathworks.com/products/robotics.html)",
+    "[Aerospace Toolbox](https://www.mathworks.com/products/aerospace.html)",
+    "[Power Systems Toolbox](https://www.mathworks.com/products/simpower.html)",
+    "[System Identification Toolbox](https://www.mathworks.com/products/sysid.html)",
+    "[MATLAB Simulation Examples](https://www.mathworks.com/help/examples/simulink)",
+    "[MATLAB Engineering Blog](https://blogs.mathworks.com)"
+  ],
+  "MATLAB Data Engineering & Integration": [
+    "[MATLAB Database Toolbox](https://www.mathworks.com/products/database.html)",
+    "[MATLAB Big Data](https://www.mathworks.com/solutions/big-data.html)",
+    "[MATLAB Spark Integration](https://www.mathworks.com/help/matlab/matlab_prog/run-matlab-functions-with-apache-spark.html)",
+    "[MATLAB Hadoop](https://www.mathworks.com/help/matlab/import_export/hadoop.html)",
+    "[MATLAB Python Integration](https://www.mathworks.com/help/matlab/matlab-engine-for-python.html)",
+    "[MATLAB Excel Integration](https://www.mathworks.com/help/matlab/import_export/exporting-to-excel-spreadsheets.html)",
+    "[MATLAB REST APIs](https://www.mathworks.com/help/matlab/ref/webread.html)",
+    "[MATLAB Cloud](https://www.mathworks.com/products/matlab-online.html)",
+    "[MATLAB Data Stores](https://www.mathworks.com/help/matlab/datastore)",
+    "[MATLAB Parallel Computing](https://www.mathworks.com/products/parallel-computing.html)"
+  ],
+  "MATLAB Communities & Developer Resources": [
+    "[MATLAB Central](https://www.mathworks.com/matlabcentral)",
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit MATLAB](https://www.reddit.com/r/matlab)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[MATLAB File Exchange](https://www.mathworks.com/matlabcentral/fileexchange)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)",
+    "[MATLAB Blogs](https://blogs.mathworks.com)"
+  ]
+}
