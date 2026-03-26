@@ -1,0 +1,130 @@
+{
+  "Title": "C#",
+  "Overview": "C# is a modern, object-oriented language developed by Microsoft.",
+  "Key Features": [
+    "- Strong type system",
+    "- LINQ support",
+    "- Excellent tooling with .NET"
+  ],
+  "Basic Syntax": "```csharp\nConsole.WriteLine(\"Hello, C#!\");\n```",
+  "Beginner C# Learning": [
+    "[Microsoft Learn C#](https://learn.microsoft.com/dotnet/csharp)",
+    "[freeCodeCamp C#](https://www.freecodecamp.org)",
+    "[W3Schools C#](https://www.w3schools.com/cs)",
+    "[GeeksforGeeks C#](https://www.geeksforgeeks.org/c-sharp-programming-language)",
+    "[TutorialsPoint C#](https://www.tutorialspoint.com/csharp)",
+    "[Programiz C#](https://www.programiz.com/csharp-programming)",
+    "[SoloLearn C#](https://www.sololearn.com)",
+    "[CSharp.net](https://www.csharp.net)",
+    "[LearnCS.org](https://www.learncs.org)",
+    "[DotNet Perls](https://www.dotnetperls.com)"
+  ],
+  "C# Coding Practice": [
+    "[LeetCode](https://leetcode.com)",
+    "[HackerRank](https://www.hackerrank.com)",
+    "[Codewars](https://www.codewars.com)",
+    "[CodeSignal](https://codesignal.com)",
+    "[Exercism](https://exercism.org)",
+    "[Project Euler](https://projecteuler.net)",
+    "[Edabit](https://edabit.com)",
+    "[CodingBat](https://codingbat.com)",
+    "[HackerEarth](https://www.hackerearth.com)",
+    "[Kattis](https://open.kattis.com)"
+  ],
+  "C# Documentation & References": [
+    "[Microsoft .NET Docs](https://learn.microsoft.com/dotnet)",
+    "[C# Language Reference](https://learn.microsoft.com/dotnet/csharp/language-reference)",
+    "[.NET API Browser](https://learn.microsoft.com/dotnet/api)",
+    "[ASP.NET Docs](https://learn.microsoft.com/aspnet)",
+    "[Microsoft DevBlogs .NET](https://devblogs.microsoft.com/dotnet)",
+    "[DotNet Foundation](https://dotnetfoundation.org)",
+    "[Stack Abuse C#](https://stackabuse.com)",
+    "[TutorialsPoint](https://www.tutorialspoint.com/csharp)",
+    "[DigitalOcean C# Tutorials](https://www.digitalocean.com/community/tutorials)",
+    "[GeeksforGeeks C#](https://www.geeksforgeeks.org/c-sharp-programming-language)"
+  ],
+  "C# Development Tools & IDEs": [
+    "[Visual Studio](https://visualstudio.microsoft.com)",
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[JetBrains Rider](https://www.jetbrains.com/rider)",
+    "[Replit](https://replit.com)",
+    "[OnlineGDB](https://www.onlinegdb.com)",
+    "[GitHub Codespaces](https://github.com/features/codespaces)",
+    "[.NET CLI](https://learn.microsoft.com/dotnet/core/tools)",
+    "[NuGet](https://www.nuget.org)",
+    "[Dotnet Fiddle](https://dotnetfiddle.net)",
+    "[LINQPad](https://www.linqpad.net)"
+  ],
+  ".NET Framework & Backend Development": [
+    "[.NET](https://dotnet.microsoft.com)",
+    "[ASP.NET Core](https://learn.microsoft.com/aspnet/core)",
+    "[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)",
+    "[Entity Framework](https://learn.microsoft.com/ef)",
+    "[Dapper](https://github.com/DapperLib/Dapper)",
+    "[Orleans](https://dotnet.github.io/orleans)",
+    "[ServiceStack](https://servicestack.net)",
+    "[NancyFX](https://nancyfx.org)",
+    "[SignalR](https://learn.microsoft.com/aspnet/core/signalr)",
+    "[Hangfire](https://www.hangfire.io)"
+  ],
+  "Game Development (C# Major Use Case)": [
+    "[Unity](https://unity.com)",
+    "[Unity Learn](https://learn.unity.com)",
+    "[Godot](https://godotengine.org)",
+    "[MonoGame](https://www.monogame.net)",
+    "[Stride Engine](https://stride3d.net)",
+    "[CryEngine](https://www.cryengine.com)",
+    "[Unreal Engine](https://www.unrealengine.com)",
+    "[OpenTK](https://opentk.net)",
+    "[Raylib](https://www.raylib.com)",
+    "[SDL](https://libsdl.org)"
+  ],
+  "C# Desktop & Cross-Platform Apps": [
+    "[.NET MAUI](https://learn.microsoft.com/dotnet/maui)",
+    "[WPF](https://learn.microsoft.com/dotnet/desktop/wpf)",
+    "[Windows Forms](https://learn.microsoft.com/dotnet/desktop/winforms)",
+    "[Avalonia UI](https://avaloniaui.net)",
+    "[Uno Platform](https://platform.uno)",
+    "[GTK#](https://www.mono-project.com/docs/gui/gtksharp)",
+    "[Electron.NET](https://github.com/ElectronNET/Electron.NET)",
+    "[Xamarin](https://learn.microsoft.com/xamarin)",
+    "[Blazor Desktop](https://learn.microsoft.com/aspnet/core/blazor)",
+    "[MAUI Community Toolkit](https://learn.microsoft.com/dotnet/communitytoolkit/maui)"
+  ],
+  "C# Cloud & Microservices": [
+    "[Azure .NET](https://learn.microsoft.com/azure/developer/dotnet)",
+    "[AWS .NET SDK](https://aws.amazon.com/sdk-for-net)",
+    "[Google Cloud .NET](https://cloud.google.com/dotnet)",
+    "[Docker](https://www.docker.com)",
+    "[Kubernetes](https://kubernetes.io)",
+    "[OpenTelemetry](https://opentelemetry.io)",
+    "[gRPC](https://grpc.io)",
+    "[Apache Kafka](https://kafka.apache.org)",
+    "[RabbitMQ](https://www.rabbitmq.com)",
+    "[MassTransit](https://masstransit-project.com)"
+  ],
+  "C# Testing & Quality": [
+    "[xUnit](https://xunit.net)",
+    "[NUnit](https://nunit.org)",
+    "[MSTest](https://learn.microsoft.com/dotnet/core/testing/unit-testing-with-mstest)",
+    "[Moq](https://github.com/moq/moq4)",
+    "[Selenium](https://www.selenium.dev)",
+    "[SpecFlow](https://specflow.org)",
+    "[FluentAssertions](https://fluentassertions.com)",
+    "[Coverlet](https://github.com/coverlet-coverage/coverlet)",
+    "[SonarQube](https://www.sonarqube.org)",
+    "[BenchmarkDotNet](https://benchmarkdotnet.org)"
+  ],
+  "C# Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit CSharp](https://www.reddit.com/r/csharp)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[DotNet Foundation](https://dotnetfoundation.org)",
+    "[CodeProject](https://www.codeproject.com)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)",
+    "[Hashnode](https://hashnode.com)"
+  ]
+}
