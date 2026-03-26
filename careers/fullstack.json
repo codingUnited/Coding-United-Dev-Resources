@@ -1,0 +1,51 @@
+{
+  "Title": "Full-Stack Developer",
+  "Overview": "A Full Stack Developer is someone who can work on both the front-end and the back-end of an application. They write code and, most of the time, also take care of everything required to push the product into production.\n\nFull stack developers (also known as full stack web developers) will usually have the required skills to tackle any part of the web development process. In the front end, they'll focus on building the user interface using technologies such as HTML, JavaScript, and CSS (Cascading Style Sheets - usually mixed with some UI framework such as React or Vue). For the back-end side of these projects, they will code the business logic and any type of data access required involving either some SQL database or, in some projects, noSQL options. As part of the back-end, there might also be some API design involved, as well as other performance and scalability optimizations that need to be performed.\n\nAs a summary, you could say that a full stack developer is a \"jack of all trades\" when it comes to web development. While they might not always be the absolute experts in any of those technologies, they're more than capable of filling any gaps in the team.",
+  
+  "Reference": "https://roadmap.sh/full-stack?fl=1",
+
+  "Core Areas": [
+    "Frontend",
+    "Backend",
+    "DevOps",
+    "Database"
+  ],
+
+  "Languages": [
+    {
+      "name": "HTML & CSS",
+      "path": "/languages/html-css.json"
+    },
+    {
+      "name": "JavaScript",
+      "path": "/languages/javascript.json"
+    },
+    {
+      "name": "TypeScript",
+      "path": "/languages/typescript.json"
+    },
+    {
+      "name": "SQL",
+      "path": "/languages/sql.json"
+    }
+  ],
+
+  "Frameworks & Tools": [
+    "React",
+    "Vue",
+    "Node.js",
+    "REST APIs",
+    "Git",
+    "GitHub",
+    "npm"
+  ],
+
+  "Advanced Topics": [
+    "Authentication (JWT)",
+    "Caching (Redis)",
+    "Cloud Services (AWS)",
+    "CI/CD (GitHub Actions)",
+    "Infrastructure (Terraform)",
+    "Monitoring"
+  ]
+}
