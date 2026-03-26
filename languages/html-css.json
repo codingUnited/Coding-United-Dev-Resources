@@ -1,0 +1,118 @@
+{
+  "Title": "HTML & CSS",
+  "Overview": "HTML structures web content, while CSS styles it.",
+  "Key Features": [
+    "- Core web technologies",
+    "- Declarative syntax",
+    "- Foundation for all web development"
+  ],
+  "Basic Syntax": "```html\n<!DOCTYPE html>\n<html>\n  <body>\n    <h1>Hello, Web!</h1>\n  </body>\n</html>\n```",
+  "Beginner HTML & CSS Learning": [
+    "[MDN HTML Guide](https://developer.mozilla.org/en-US/docs/Web/HTML)",
+    "[MDN CSS Guide](https://developer.mozilla.org/en-US/docs/Web/CSS)",
+    "[freeCodeCamp HTML CSS](https://www.freecodecamp.org)",
+    "[W3Schools HTML](https://www.w3schools.com/html)",
+    "[W3Schools CSS](https://www.w3schools.com/css)",
+    "[HTML.com](https://html.com)",
+    "[CSS Tricks](https://css-tricks.com)",
+    "[Programiz HTML CSS](https://www.programiz.com/html)",
+    "[GeeksforGeeks HTML CSS](https://www.geeksforgeeks.org/html)",
+    "[TutorialsPoint HTML](https://www.tutorialspoint.com/html)"
+  ],
+  "HTML & CSS Coding Practice": [
+    "[Frontend Mentor](https://www.frontendmentor.io)",
+    "[CodePen](https://codepen.io)",
+    "[CSSBattle](https://cssbattle.dev)",
+    "[Codewars](https://www.codewars.com)",
+    "[HackerRank](https://www.hackerrank.com)",
+    "[LeetCode](https://leetcode.com)",
+    "[DevChallenges](https://devchallenges.io)",
+    "[Edabit](https://edabit.com)",
+    "[Kattis](https://open.kattis.com)",
+    "[Project Euler](https://projecteuler.net)"
+  ],
+  "HTML & CSS Documentation & References": [
+    "[MDN Web Docs](https://developer.mozilla.org)",
+    "[WHATWG HTML Standard](https://html.spec.whatwg.org)",
+    "[W3C CSS Specs](https://www.w3.org/Style/CSS)",
+    "[CSS Reference](https://cssreference.io)",
+    "[HTML Reference](https://htmlreference.io)",
+    "[DevDocs](https://devdocs.io)",
+    "[DigitalOcean HTML CSS Tutorials](https://www.digitalocean.com/community/tutorials)",
+    "[Stack Abuse HTML CSS](https://stackabuse.com)",
+    "[HTML Living Standard](https://html.spec.whatwg.org)",
+    "[CSS Working Group](https://www.w3.org/Style/CSS)"
+  ],
+  "HTML & CSS Development Tools": [
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[WebStorm](https://www.jetbrains.com/webstorm)",
+    "[CodePen](https://codepen.io)",
+    "[JSFiddle](https://jsfiddle.net)",
+    "[CodeSandbox](https://codesandbox.io)",
+    "[StackBlitz](https://stackblitz.com)",
+    "[Chrome DevTools](https://developer.chrome.com/docs/devtools)",
+    "[Firefox DevTools](https://firefox-source-docs.mozilla.org/devtools-user)",
+    "[Replit](https://replit.com)",
+    "[GitHub Codespaces](https://github.com/features/codespaces)"
+  ],
+  "CSS Layout & Responsive Design": [
+    "[Flexbox Froggy](https://flexboxfroggy.com)",
+    "[Grid Garden](https://cssgridgarden.com)",
+    "[CSS Tricks Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)",
+    "[CSS Tricks Grid](https://css-tricks.com/snippets/css/complete-guide-grid)",
+    "[Responsive Web Design](https://responsivedesign.is)",
+    "[Modern CSS](https://moderncss.dev)",
+    "[Layout Land](https://web.dev/learn/css)",
+    "[Smashing Magazine](https://www.smashingmagazine.com)",
+    "[CSS Layout Generator](https://layout.bradwoods.io)",
+    "[Every Layout](https://every-layout.dev)"
+  ],
+  "CSS Frameworks & UI Libraries": [
+    "[Bootstrap](https://getbootstrap.com)",
+    "[Tailwind CSS](https://tailwindcss.com)",
+    "[Bulma](https://bulma.io)",
+    "[Foundation](https://get.foundation)",
+    "[Materialize](https://materializecss.com)",
+    "[Chakra UI](https://chakra-ui.com)",
+    "[Ant Design](https://ant.design)",
+    "[Semantic UI](https://semantic-ui.com)",
+    "[Pico CSS](https://picocss.com)",
+    "[Vanilla CSS](https://vanillaframework.io)"
+  ],
+  "HTML & CSS Build Tools": [
+    "[Vite](https://vitejs.dev)",
+    "[Webpack](https://webpack.js.org)",
+    "[Parcel](https://parceljs.org)",
+    "[Gulp](https://gulpjs.com)",
+    "[PostCSS](https://postcss.org)",
+    "[Sass](https://sass-lang.com)",
+    "[Less](https://lesscss.org)",
+    "[Stylelint](https://stylelint.io)",
+    "[Autoprefixer](https://github.com/postcss/autoprefixer)",
+    "[Prettier](https://prettier.io)"
+  ],
+  "Performance & Optimization": [
+    "[Lighthouse](https://developer.chrome.com/docs/lighthouse)",
+    "[WebPageTest](https://www.webpagetest.org)",
+    "[PageSpeed Insights](https://pagespeed.web.dev)",
+    "[GTmetrix](https://gtmetrix.com)",
+    "[Web.dev](https://web.dev)",
+    "[ImageOptim](https://imageoptim.com)",
+    "[TinyPNG](https://tinypng.com)",
+    "[CSS Minifier](https://cssminifier.com)",
+    "[HTML Minifier](https://html-minifier.com)",
+    "[Bundle Analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer)"
+  ],
+  "HTML & CSS Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit WebDev](https://www.reddit.com/r/webdev)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[CSS Tricks](https://css-tricks.com)",
+    "[Smashing Magazine](https://www.smashingmagazine.com)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)",
+    "[Hashnode](https://hashnode.com)"
+  ]
+}
