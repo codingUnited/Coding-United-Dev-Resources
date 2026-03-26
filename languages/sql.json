@@ -1,0 +1,118 @@
+{
+  "Title": "SQL",
+  "Overview": "SQL is the standard language for managing relational databases.",
+  "Key Features": [
+    "- Declarative queries",
+    "- Strong data manipulation capabilities",
+    "- Widely supported"
+  ],
+  "Basic Syntax": "```sql\nSELECT * FROM users;\n```",
+  "Beginner SQL Learning": [
+    "[SQLBolt](https://sqlbolt.com)",
+    "[W3Schools SQL](https://www.w3schools.com/sql)",
+    "[Mode SQL Tutorial](https://mode.com/sql-tutorial)",
+    "[Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql)",
+    "[freeCodeCamp SQL](https://www.freecodecamp.org)",
+    "[LearnSQL](https://learnsql.com)",
+    "[SQLZoo](https://sqlzoo.net)",
+    "[Programiz SQL](https://www.programiz.com/sql)",
+    "[GeeksforGeeks SQL](https://www.geeksforgeeks.org/sql-tutorial)",
+    "[TutorialsPoint SQL](https://www.tutorialspoint.com/sql)"
+  ],
+  "SQL Coding Practice": [
+    "[LeetCode SQL](https://leetcode.com/problemset/database)",
+    "[HackerRank SQL](https://www.hackerrank.com/domains/sql)",
+    "[SQLZoo](https://sqlzoo.net)",
+    "[DataLemur](https://datalemur.com)",
+    "[StrataScratch](https://www.stratascratch.com)",
+    "[Mode SQL Exercises](https://mode.com/sql-tutorial/sql-practice)",
+    "[Edabit](https://edabit.com)",
+    "[KDNuggets SQL Practice](https://www.kdnuggets.com)",
+    "[Codewars](https://www.codewars.com)",
+    "[Project Euler](https://projecteuler.net)"
+  ],
+  "SQL Documentation & References": [
+    "[PostgreSQL Docs](https://www.postgresql.org/docs)",
+    "[MySQL Docs](https://dev.mysql.com/doc)",
+    "[Microsoft SQL Server Docs](https://learn.microsoft.com/sql)",
+    "[SQLite Docs](https://sqlite.org/docs.html)",
+    "[Oracle SQL Docs](https://docs.oracle.com/database)",
+    "[SQL Reference](https://www.sqltutorial.org)",
+    "[SQL Style Guide](https://www.sqlstyle.guide)",
+    "[SQL Cookbook](https://www.oreilly.com/library/view/sql-cookbook)",
+    "[DigitalOcean SQL Tutorials](https://www.digitalocean.com/community/tutorials)",
+    "[Stack Abuse SQL](https://stackabuse.com)"
+  ],
+  "Database Systems": [
+    "[PostgreSQL](https://www.postgresql.org)",
+    "[MySQL](https://www.mysql.com)",
+    "[MariaDB](https://mariadb.org)",
+    "[SQLite](https://sqlite.org)",
+    "[Microsoft SQL Server](https://www.microsoft.com/sql-server)",
+    "[Oracle Database](https://www.oracle.com/database)",
+    "[CockroachDB](https://www.cockroachlabs.com)",
+    "[Amazon Aurora](https://aws.amazon.com/rds/aurora)",
+    "[Google Cloud SQL](https://cloud.google.com/sql)",
+    "[Azure SQL](https://azure.microsoft.com/services/sql-database)"
+  ],
+  "SQL Development Tools": [
+    "[DBeaver](https://dbeaver.io)",
+    "[TablePlus](https://tableplus.com)",
+    "[HeidiSQL](https://www.heidisql.com)",
+    "[MySQL Workbench](https://www.mysql.com/products/workbench)",
+    "[pgAdmin](https://www.pgadmin.org)",
+    "[Azure Data Studio](https://learn.microsoft.com/sql/azure-data-studio)",
+    "[SQL Server Management Studio](https://learn.microsoft.com/sql/ssms)",
+    "[DataGrip](https://www.jetbrains.com/datagrip)",
+    "[Beekeeper Studio](https://www.beekeeperstudio.io)",
+    "[SQLTools VS Code](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)"
+  ],
+  "SQL Data Analytics Platforms": [
+    "[Mode Analytics](https://mode.com)",
+    "[Metabase](https://www.metabase.com)",
+    "[Apache Superset](https://superset.apache.org)",
+    "[Tableau](https://www.tableau.com)",
+    "[Power BI](https://powerbi.microsoft.com)",
+    "[Looker](https://looker.com)",
+    "[Redash](https://redash.io)",
+    "[Hex](https://hex.tech)",
+    "[Sigma Computing](https://www.sigmacomputing.com)",
+    "[Chartio](https://chartio.com)"
+  ],
+  "Data Engineering & Warehousing": [
+    "[Snowflake](https://www.snowflake.com)",
+    "[BigQuery](https://cloud.google.com/bigquery)",
+    "[Amazon Redshift](https://aws.amazon.com/redshift)",
+    "[Databricks](https://databricks.com)",
+    "[Apache Hive](https://hive.apache.org)",
+    "[Apache Spark SQL](https://spark.apache.org/sql)",
+    "[Presto](https://prestodb.io)",
+    "[Trino](https://trino.io)",
+    "[DuckDB](https://duckdb.org)",
+    "[ClickHouse](https://clickhouse.com)"
+  ],
+  "SQL Testing & Data Quality": [
+    "[dbt](https://www.getdbt.com)",
+    "[Great Expectations](https://greatexpectations.io)",
+    "[Soda](https://www.soda.io)",
+    "[Monte Carlo Data](https://www.montecarlodata.com)",
+    "[Datafold](https://www.datafold.com)",
+    "[Deequ](https://github.com/awslabs/deequ)",
+    "[SQLFluff](https://www.sqlfluff.com)",
+    "[QuerySurge](https://www.querysurge.com)",
+    "[OpenLineage](https://openlineage.io)",
+    "[DataHub](https://datahubproject.io)"
+  ],
+  "SQL Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit SQL](https://www.reddit.com/r/SQL)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[DBA StackExchange](https://dba.stackexchange.com)",
+    "[SQLServerCentral](https://www.sqlservercentral.com)",
+    "[PostgreSQL Community](https://www.postgresql.org/community)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)"
+  ]
+}
