@@ -1,0 +1,130 @@
+{
+  "Title": "Java",
+  "Overview": "Java is a class-based, object-oriented language designed for portability.",
+  "Key Features": [
+    "- JVM portability",
+    "- Strong type system",
+    "- Large enterprise ecosystem"
+  ],
+  "Basic Syntax": "```java\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, Java!\");\n    }\n}\n```",
+  "Beginner Java Learning": [
+    "[Codecademy Java](https://www.codecademy.com/learn/learn-java)",
+    "[freeCodeCamp Java](https://www.freecodecamp.org)",
+    "[W3Schools Java](https://www.w3schools.com/java)",
+    "[Programiz Java](https://www.programiz.com/java-programming)",
+    "[GeeksforGeeks Java](https://www.geeksforgeeks.org/java)",
+    "[SoloLearn Java](https://www.sololearn.com)",
+    "[JavaTpoint](https://www.javatpoint.com)",
+    "[TutorialsPoint Java](https://www.tutorialspoint.com/java)",
+    "[Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial)",
+    "[LearnJavaOnline](https://www.learnjavaonline.org)"
+  ],
+  "Java Coding Practice": [
+    "[LeetCode](https://leetcode.com)",
+    "[HackerRank](https://www.hackerrank.com)",
+    "[Codewars](https://www.codewars.com)",
+    "[CodeSignal](https://codesignal.com)",
+    "[Exercism](https://exercism.org)",
+    "[Project Euler](https://projecteuler.net)",
+    "[Edabit](https://edabit.com)",
+    "[CodingBat](https://codingbat.com)",
+    "[TopCoder](https://www.topcoder.com)",
+    "[HackerEarth](https://www.hackerearth.com)"
+  ],
+  "Java Documentation & Reference": [
+    "[Oracle Java Docs](https://docs.oracle.com/en/java)",
+    "[OpenJDK](https://openjdk.org)",
+    "[Java API Specification](https://docs.oracle.com/javase/8/docs/api)",
+    "[Baeldung](https://www.baeldung.com)",
+    "[GeeksforGeeks Java](https://www.geeksforgeeks.org/java)",
+    "[JavaTpoint](https://www.javatpoint.com)",
+    "[Dev.java](https://dev.java)",
+    "[Stack Abuse](https://stackabuse.com)",
+    "[TutorialsPoint](https://www.tutorialspoint.com/java)",
+    "[DigitalOcean Java Tutorials](https://www.digitalocean.com/community/tutorials)"
+  ],
+  "Java Development Tools & IDEs": [
+    "[IntelliJ IDEA](https://www.jetbrains.com/idea)",
+    "[Eclipse IDE](https://www.eclipse.org)",
+    "[NetBeans](https://netbeans.apache.org)",
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[Replit](https://replit.com)",
+    "[OnlineGDB](https://www.onlinegdb.com)",
+    "[JDoodle](https://www.jdoodle.com)",
+    "[Codenvy](https://www.eclipse.org/che)",
+    "[GitHub Codespaces](https://github.com/features/codespaces)",
+    "[Glitch](https://glitch.com)"
+  ],
+  "Java Frameworks (Enterprise & Backend)": [
+    "[Spring](https://spring.io)",
+    "[Spring Boot](https://spring.io/projects/spring-boot)",
+    "[Hibernate](https://hibernate.org)",
+    "[Jakarta EE](https://jakarta.ee)",
+    "[Apache Struts](https://struts.apache.org)",
+    "[Play Framework](https://www.playframework.com)",
+    "[Micronaut](https://micronaut.io)",
+    "[Quarkus](https://quarkus.io)",
+    "[Vaadin](https://vaadin.com)",
+    "[Dropwizard](https://www.dropwizard.io)"
+  ],
+  "Android Development (Java Ecosystem)": [
+    "[Android Developers](https://developer.android.com)",
+    "[Android Studio](https://developer.android.com/studio)",
+    "[Firebase](https://firebase.google.com)",
+    "[Kotlin Docs](https://kotlinlang.org)",
+    "[Jetpack](https://developer.android.com/jetpack)",
+    "[Material Design](https://m3.material.io)",
+    "[Realm Database](https://realm.io)",
+    "[Retrofit](https://square.github.io/retrofit)",
+    "[Glide](https://bumptech.github.io/glide)",
+    "[Picasso](https://square.github.io/picasso)"
+  ],
+  "Java Build Tools & Dependency Management": [
+    "[Maven](https://maven.apache.org)",
+    "[Gradle](https://gradle.org)",
+    "[Apache Ant](https://ant.apache.org)",
+    "[JitPack](https://jitpack.io)",
+    "[Sonatype Nexus](https://www.sonatype.com/products/nexus-repository)",
+    "[Artifactory](https://jfrog.com/artifactory)",
+    "[Dependabot](https://github.com/dependabot)",
+    "[Renovate](https://www.mend.io/renovate)",
+    "[Gradle Plugin Portal](https://plugins.gradle.org)",
+    "[Maven Repository](https://mvnrepository.com)"
+  ],
+  "Java Testing & Quality Tools": [
+    "[JUnit](https://junit.org)",
+    "[TestNG](https://testng.org)",
+    "[Mockito](https://site.mockito.org)",
+    "[Selenium](https://www.selenium.dev)",
+    "[Cucumber](https://cucumber.io)",
+    "[JaCoCo](https://www.jacoco.org)",
+    "[SonarQube](https://www.sonarqube.org)",
+    "[Selenide](https://selenide.org)",
+    "[RestAssured](https://rest-assured.io)",
+    "[PIT Mutation Testing](https://pitest.org)"
+  ],
+  "Java Cloud & Microservices": [
+    "[Spring Cloud](https://spring.io/projects/spring-cloud)",
+    "[Docker](https://www.docker.com)",
+    "[Kubernetes](https://kubernetes.io)",
+    "[AWS Java SDK](https://aws.amazon.com/sdk-for-java)",
+    "[Google Cloud Java](https://cloud.google.com/java)",
+    "[Azure Java](https://learn.microsoft.com/java)",
+    "[Apache Kafka](https://kafka.apache.org)",
+    "[Apache Camel](https://camel.apache.org)",
+    "[OpenTelemetry](https://opentelemetry.io)",
+    "[MicroProfile](https://microprofile.io)"
+  ],
+  "Java Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit Java](https://www.reddit.com/r/java)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[CodeProject](https://www.codeproject.com)",
+    "[Baeldung Community](https://www.baeldung.com)",
+    "[Java User Groups](https://jugleaders.org)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[CodeNewbie](https://community.codenewbie.org)",
+    "[Hashnode](https://hashnode.com)"
+  ]
+}
