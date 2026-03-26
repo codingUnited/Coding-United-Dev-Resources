@@ -1,0 +1,130 @@
+{
+  "Title": "Kotlin",
+  "Overview": "Kotlin is a modern JVM language and the preferred language for Android development.",
+  "Key Features": [
+    "- Null safety",
+    "- Concise syntax",
+    "- Interoperable with Java"
+  ],
+  "Basic Syntax": "```kotlin\nfun main() {\n    println(\"Hello, Kotlin!\")\n}\n```",
+  "Beginner Kotlin Learning": [
+    "[Kotlin Official Site](https://kotlinlang.org)",
+    "[Kotlin Documentation](https://kotlinlang.org/docs)",
+    "[Kotlin Koans](https://play.kotlinlang.org/koans)",
+    "[Kotlin by Example](https://play.kotlinlang.org/byExample)",
+    "[JetBrains Academy Kotlin](https://hyperskill.org)",
+    "[freeCodeCamp Kotlin](https://www.freecodecamp.org)",
+    "[W3Schools Kotlin](https://www.w3schools.com/kotlin)",
+    "[Programiz Kotlin](https://www.programiz.com/kotlin-programming)",
+    "[GeeksforGeeks Kotlin](https://www.geeksforgeeks.org/kotlin-programming-language)",
+    "[TutorialsPoint Kotlin](https://www.tutorialspoint.com/kotlin)"
+  ],
+  "Kotlin Coding Practice": [
+    "[LeetCode](https://leetcode.com)",
+    "[HackerRank](https://www.hackerrank.com)",
+    "[Codewars](https://www.codewars.com)",
+    "[CodeSignal](https://codesignal.com)",
+    "[Exercism](https://exercism.org)",
+    "[Project Euler](https://projecteuler.net)",
+    "[Edabit](https://edabit.com)",
+    "[HackerEarth](https://www.hackerearth.com)",
+    "[Kattis](https://open.kattis.com)",
+    "[CodingBat](https://codingbat.com)"
+  ],
+  "Kotlin Documentation & References": [
+    "[Kotlin Docs](https://kotlinlang.org/docs/home.html)",
+    "[Kotlin Standard Library](https://kotlinlang.org/api)",
+    "[Kotlin Style Guide](https://kotlinlang.org/docs/coding-conventions.html)",
+    "[Kotlin GitHub](https://github.com/JetBrains/kotlin)",
+    "[Kotlin Blog](https://blog.jetbrains.com/kotlin)",
+    "[Android Kotlin Docs](https://developer.android.com/kotlin)",
+    "[Kotlin Playground](https://play.kotlinlang.org)",
+    "[DigitalOcean Kotlin Tutorials](https://www.digitalocean.com/community/tutorials)",
+    "[Stack Abuse Kotlin](https://stackabuse.com)",
+    "[Kotlin Weekly](https://kotlinweekly.net)"
+  ],
+  "Kotlin Development Tools": [
+    "[IntelliJ IDEA](https://www.jetbrains.com/idea)",
+    "[Android Studio](https://developer.android.com/studio)",
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[Kotlin Playground](https://play.kotlinlang.org)",
+    "[Gradle](https://gradle.org)",
+    "[Maven](https://maven.apache.org)",
+    "[Replit](https://replit.com)",
+    "[GitHub Codespaces](https://github.com/features/codespaces)",
+    "[Kotlin Compiler](https://kotlinlang.org/docs/command-line.html)",
+    "[JetBrains Toolbox](https://www.jetbrains.com/toolbox-app)"
+  ],
+  "Android Development with Kotlin": [
+    "[Android Developers](https://developer.android.com)",
+    "[Android Kotlin Docs](https://developer.android.com/kotlin)",
+    "[Jetpack](https://developer.android.com/jetpack)",
+    "[Jetpack Compose](https://developer.android.com/jetpack/compose)",
+    "[Firebase](https://firebase.google.com)",
+    "[Material Design](https://m3.material.io)",
+    "[Realm Database](https://realm.io)",
+    "[Retrofit](https://square.github.io/retrofit)",
+    "[Glide](https://bumptech.github.io/glide)",
+    "[Picasso](https://square.github.io/picasso)"
+  ],
+  "Kotlin Backend Development": [
+    "[Ktor](https://ktor.io)",
+    "[Spring Boot](https://spring.io/projects/spring-boot)",
+    "[Micronaut](https://micronaut.io)",
+    "[Quarkus](https://quarkus.io)",
+    "[Vert.x](https://vertx.io)",
+    "[Exposed ORM](https://github.com/JetBrains/Exposed)",
+    "[GraphQL Kotlin](https://opensource.expediagroup.com/graphql-kotlin)",
+    "[Retrofit](https://square.github.io/retrofit)",
+    "[OkHttp](https://square.github.io/okhttp)",
+    "[Redis Kotlin](https://github.com/lettuce-io/lettuce-core)"
+  ],
+  "Kotlin Multiplatform Development": [
+    "[Kotlin Multiplatform](https://kotlinlang.org/lp/multiplatform)",
+    "[Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform)",
+    "[Kotlin Native](https://kotlinlang.org/docs/native-overview.html)",
+    "[Kotlin JS](https://kotlinlang.org/docs/js-overview.html)",
+    "[Kotlin Wasm](https://kotlinlang.org/docs/wasm-overview.html)",
+    "[Touchlab](https://touchlab.co)",
+    "[KMM Bridge](https://kmmbridge.touchlab.co)",
+    "[Koin DI](https://insert-koin.io)",
+    "[SQLDelight](https://cashapp.github.io/sqldelight)",
+    "[Apollo Kotlin](https://www.apollographql.com/docs/kotlin)"
+  ],
+  "Kotlin Testing & Quality": [
+    "[Kotlin Test](https://kotlinlang.org/api/kotlin.test)",
+    "[JUnit](https://junit.org)",
+    "[MockK](https://mockk.io)",
+    "[Kotest](https://kotest.io)",
+    "[Spek](https://spekframework.org)",
+    "[Detekt](https://detekt.dev)",
+    "[Ktlint](https://ktlint.github.io)",
+    "[SonarQube](https://www.sonarqube.org)",
+    "[JaCoCo](https://www.jacoco.org)",
+    "[TestContainers](https://testcontainers.org)"
+  ],
+  "Kotlin DevOps & Deployment": [
+    "[Docker](https://www.docker.com)",
+    "[Kubernetes](https://kubernetes.io)",
+    "[AWS](https://aws.amazon.com)",
+    "[Google Cloud](https://cloud.google.com)",
+    "[Azure](https://azure.microsoft.com)",
+    "[GitHub Actions](https://github.com/features/actions)",
+    "[GitLab CI](https://about.gitlab.com)",
+    "[CircleCI](https://circleci.com)",
+    "[Terraform](https://www.terraform.io)",
+    "[Gradle Build Tool](https://gradle.org)"
+  ],
+  "Kotlin Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit Kotlin](https://www.reddit.com/r/Kotlin)",
+    "[Kotlin Slack](https://slack.kotlinlang.org)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[Kotlin Forum](https://discuss.kotlinlang.org)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)",
+    "[Kotlin Weekly](https://kotlinweekly.net)"
+  ]
+}
