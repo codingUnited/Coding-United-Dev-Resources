@@ -1,0 +1,130 @@
+{
+  "Title": "Ruby",
+  "Overview": "Ruby is a dynamic, expressive language known for developer happiness.",
+  "Key Features": [
+    "- Elegant syntax",
+    "- Powerful metaprogramming",
+    "- Rails ecosystem"
+  ],
+  "Basic Syntax": "```ruby\nputs \"Hello, Ruby!\"\n```",
+  "Beginner Ruby Learning": [
+    "[Ruby Official Site](https://www.ruby-lang.org)",
+    "[Ruby Documentation](https://www.ruby-lang.org/en/documentation)",
+    "[Try Ruby](https://try.ruby-lang.org)",
+    "[Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart)",
+    "[freeCodeCamp Ruby](https://www.freecodecamp.org)",
+    "[W3Schools Ruby](https://www.w3schools.com/ruby)",
+    "[Programiz Ruby](https://www.programiz.com/ruby-programming)",
+    "[GeeksforGeeks Ruby](https://www.geeksforgeeks.org/ruby-programming-language)",
+    "[TutorialsPoint Ruby](https://www.tutorialspoint.com/ruby)",
+    "[Learn Ruby Online](https://www.learnrubyonline.org)"
+  ],
+  "Ruby Coding Practice": [
+    "[Codewars](https://www.codewars.com)",
+    "[LeetCode](https://leetcode.com)",
+    "[HackerRank](https://www.hackerrank.com)",
+    "[CodeSignal](https://codesignal.com)",
+    "[Exercism](https://exercism.org)",
+    "[Project Euler](https://projecteuler.net)",
+    "[Edabit](https://edabit.com)",
+    "[HackerEarth](https://www.hackerearth.com)",
+    "[Kattis](https://open.kattis.com)",
+    "[CodingBat](https://codingbat.com)"
+  ],
+  "Ruby Documentation & References": [
+    "[Ruby Docs](https://docs.ruby-lang.org)",
+    "[Ruby API Docs](https://ruby-doc.org)",
+    "[Ruby Style Guide](https://rubystyle.guide)",
+    "[Ruby Core Docs](https://ruby-doc.org/core)",
+    "[Ruby Standard Library](https://ruby-doc.org/stdlib)",
+    "[Ruby Weekly](https://rubyweekly.com)",
+    "[DigitalOcean Ruby Tutorials](https://www.digitalocean.com/community/tutorials)",
+    "[Stack Abuse Ruby](https://stackabuse.com)",
+    "[Ruby User Guide](https://www.ruby-lang.org/en/documentation)",
+    "[Ruby Koans](https://www.rubykoans.com)"
+  ],
+  "Ruby Development Tools": [
+    "[Ruby Installer](https://rubyinstaller.org)",
+    "[rbenv](https://github.com/rbenv/rbenv)",
+    "[RVM](https://rvm.io)",
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[RubyMine](https://www.jetbrains.com/ruby)",
+    "[Replit](https://replit.com)",
+    "[GitHub Codespaces](https://github.com/features/codespaces)",
+    "[Bundler](https://bundler.io)",
+    "[IRB](https://github.com/ruby/irb)",
+    "[Pry](https://github.com/pry/pry)"
+  ],
+  "Ruby Web Development (Rails Ecosystem)": [
+    "[Ruby on Rails](https://rubyonrails.org)",
+    "[Rails Guides](https://guides.rubyonrails.org)",
+    "[Sinatra](https://sinatrarb.com)",
+    "[Hanami](https://hanamirb.org)",
+    "[Padrino](https://padrinorb.com)",
+    "[Grape](https://github.com/ruby-grape/grape)",
+    "[Trailblazer](https://trailblazer.to)",
+    "[Lotus](https://lotusrb.org)",
+    "[Rails API](https://guides.rubyonrails.org/api_app.html)",
+    "[Hotwire](https://hotwired.dev)"
+  ],
+  "Ruby Backend & API Development": [
+    "[Rack](https://rack.github.io)",
+    "[GraphQL Ruby](https://graphql-ruby.org)",
+    "[Sidekiq](https://sidekiq.org)",
+    "[Resque](https://github.com/resque/resque)",
+    "[Delayed Job](https://github.com/collectiveidea/delayed_job)",
+    "[ActiveRecord](https://guides.rubyonrails.org/active_record_basics.html)",
+    "[Sequel](https://sequel.jeremyevans.net)",
+    "[Redis Ruby](https://github.com/redis/redis-rb)",
+    "[Mongoid](https://mongoid.org)",
+    "[Rails API Mode](https://guides.rubyonrails.org/api_app.html)"
+  ],
+  "Ruby Testing & Quality": [
+    "[RSpec](https://rspec.info)",
+    "[Minitest](https://github.com/minitest/minitest)",
+    "[Capybara](https://teamcapybara.github.io/capybara)",
+    "[Cucumber](https://cucumber.io)",
+    "[FactoryBot](https://github.com/thoughtbot/factory_bot)",
+    "[RuboCop](https://rubocop.org)",
+    "[SimpleCov](https://github.com/simplecov-ruby/simplecov)",
+    "[Brakeman](https://brakemanscanner.org)",
+    "[Guard](https://github.com/guard/guard)",
+    "[Shoulda Matchers](https://github.com/thoughtbot/shoulda-matchers)"
+  ],
+  "Ruby Libraries & Packages": [
+    "[RubyGems](https://rubygems.org)",
+    "[Bundler](https://bundler.io)",
+    "[Nokogiri](https://nokogiri.org)",
+    "[Devise](https://github.com/heartcombo/devise)",
+    "[Pundit](https://github.com/varvet/pundit)",
+    "[Kaminari](https://github.com/kaminari/kaminari)",
+    "[WillPaginate](https://github.com/mislav/will_paginate)",
+    "[FriendlyId](https://github.com/norman/friendly_id)",
+    "[Paperclip](https://github.com/thoughtbot/paperclip)",
+    "[CarrierWave](https://github.com/carrierwaveuploader/carrierwave)"
+  ],
+  "Ruby DevOps & Deployment": [
+    "[Capistrano](https://capistranorb.com)",
+    "[Heroku](https://www.heroku.com)",
+    "[Docker](https://www.docker.com)",
+    "[Kubernetes](https://kubernetes.io)",
+    "[GitHub Actions](https://github.com/features/actions)",
+    "[CircleCI](https://circleci.com)",
+    "[Travis CI](https://travis-ci.org)",
+    "[AWS Ruby SDK](https://aws.amazon.com/sdk-for-ruby)",
+    "[Terraform](https://www.terraform.io)",
+    "[Nginx](https://nginx.org)"
+  ],
+  "Ruby Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit Ruby](https://www.reddit.com/r/ruby)",
+    "[Ruby Forum](https://www.ruby-forum.com)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[Ruby Weekly](https://rubyweekly.com)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)",
+    "[Hashnode](https://hashnode.com)"
+  ]
+}
