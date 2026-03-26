@@ -1,0 +1,130 @@
+{
+  "Title": "TypeScript",
+  "Overview": "TypeScript is a typed superset of JavaScript that compiles to plain JS.",
+  "Key Features": [
+    "- Static typing",
+    "- Better tooling and refactoring",
+    "- Works with all JS libraries"
+  ],
+  "Basic Syntax": "```typescript\nlet message: string = \"Hello, TypeScript!\";\nconsole.log(message);\n```",
+  "Beginner TypeScript Learning": [
+    "[TypeScript Official Site](https://www.typescriptlang.org)",
+    "[TypeScript Handbook](https://www.typescriptlang.org/docs/handbook)",
+    "[freeCodeCamp TypeScript](https://www.freecodecamp.org)",
+    "[W3Schools TypeScript](https://www.w3schools.com/typescript)",
+    "[TypeScript Tutorial](https://www.typescripttutorial.net)",
+    "[Programiz TypeScript](https://www.programiz.com/typescript)",
+    "[GeeksforGeeks TypeScript](https://www.geeksforgeeks.org/typescript)",
+    "[TutorialsPoint TypeScript](https://www.tutorialspoint.com/typescript)",
+    "[Total TypeScript](https://www.totaltypescript.com)",
+    "[Learn TypeScript](https://learntypescript.dev)"
+  ],
+  "TypeScript Coding Practice": [
+    "[LeetCode](https://leetcode.com)",
+    "[HackerRank](https://www.hackerrank.com)",
+    "[Codewars](https://www.codewars.com)",
+    "[CodeSignal](https://codesignal.com)",
+    "[Exercism](https://exercism.org)",
+    "[Project Euler](https://projecteuler.net)",
+    "[Edabit](https://edabit.com)",
+    "[HackerEarth](https://www.hackerearth.com)",
+    "[Kattis](https://open.kattis.com)",
+    "[CodingBat](https://codingbat.com)"
+  ],
+  "TypeScript Documentation & References": [
+    "[TypeScript Docs](https://www.typescriptlang.org/docs)",
+    "[TypeScript Playground](https://www.typescriptlang.org/play)",
+    "[TypeScript Deep Dive](https://basarat.gitbook.io/typescript)",
+    "[Microsoft TypeScript GitHub](https://github.com/microsoft/TypeScript)",
+    "[TypeScript Style Guide](https://github.com/basarat/typescript-style-guide)",
+    "[Node.js Docs](https://nodejs.org/en/docs)",
+    "[MDN JavaScript Docs](https://developer.mozilla.org)",
+    "[DevDocs](https://devdocs.io/typescript)",
+    "[JavaScript Weekly](https://javascriptweekly.com)",
+    "[DigitalOcean TypeScript Tutorials](https://www.digitalocean.com/community/tutorials)"
+  ],
+  "TypeScript Development Tools": [
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[WebStorm](https://www.jetbrains.com/webstorm)",
+    "[Node.js](https://nodejs.org)",
+    "[npm](https://www.npmjs.com)",
+    "[Yarn](https://yarnpkg.com)",
+    "[pnpm](https://pnpm.io)",
+    "[Replit](https://replit.com)",
+    "[CodeSandbox](https://codesandbox.io)",
+    "[StackBlitz](https://stackblitz.com)",
+    "[Chrome DevTools](https://developer.chrome.com/docs/devtools)"
+  ],
+  "TypeScript Frontend Frameworks": [
+    "[React](https://react.dev)",
+    "[Angular](https://angular.io)",
+    "[Vue](https://vuejs.org)",
+    "[Svelte](https://svelte.dev)",
+    "[SolidJS](https://www.solidjs.com)",
+    "[Preact](https://preactjs.com)",
+    "[Lit](https://lit.dev)",
+    "[Alpine.js](https://alpinejs.dev)",
+    "[Ember.js](https://emberjs.com)",
+    "[Qwik](https://qwik.builder.io)"
+  ],
+  "TypeScript Backend Frameworks": [
+    "[NestJS](https://nestjs.com)",
+    "[Express.js](https://expressjs.com)",
+    "[Fastify](https://fastify.dev)",
+    "[Koa](https://koajs.com)",
+    "[AdonisJS](https://adonisjs.com)",
+    "[LoopBack](https://loopback.io)",
+    "[Sails.js](https://sailsjs.com)",
+    "[Hapi](https://hapi.dev)",
+    "[Total.js](https://www.totaljs.com)",
+    "[FeathersJS](https://feathersjs.com)"
+  ],
+  "Full-Stack TypeScript Frameworks": [
+    "[Next.js](https://nextjs.org)",
+    "[Nuxt](https://nuxt.com)",
+    "[Remix](https://remix.run)",
+    "[SvelteKit](https://kit.svelte.dev)",
+    "[RedwoodJS](https://redwoodjs.com)",
+    "[Blitz.js](https://blitzjs.com)",
+    "[Astro](https://astro.build)",
+    "[Qwik](https://qwik.builder.io)",
+    "[Gatsby](https://www.gatsbyjs.com)",
+    "[T3 Stack](https://create.t3.gg)"
+  ],
+  "TypeScript Testing & Quality": [
+    "[Jest](https://jestjs.io)",
+    "[Mocha](https://mochajs.org)",
+    "[Jasmine](https://jasmine.github.io)",
+    "[Vitest](https://vitest.dev)",
+    "[Cypress](https://www.cypress.io)",
+    "[Playwright](https://playwright.dev)",
+    "[Testing Library](https://testing-library.com)",
+    "[ESLint](https://eslint.org)",
+    "[Prettier](https://prettier.io)",
+    "[SonarQube](https://www.sonarqube.org)"
+  ],
+  "TypeScript DevOps & Deployment": [
+    "[Docker](https://www.docker.com)",
+    "[Kubernetes](https://kubernetes.io)",
+    "[Vercel](https://vercel.com)",
+    "[Netlify](https://www.netlify.com)",
+    "[Render](https://render.com)",
+    "[AWS](https://aws.amazon.com)",
+    "[Google Cloud](https://cloud.google.com)",
+    "[Azure](https://azure.microsoft.com)",
+    "[GitHub Actions](https://github.com/features/actions)",
+    "[CircleCI](https://circleci.com)"
+  ],
+  "TypeScript Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit TypeScript](https://www.reddit.com/r/typescript)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)",
+    "[Hashnode](https://hashnode.com)",
+    "[JavaScript Weekly](https://javascriptweekly.com)",
+    "[TypeScript Weekly](https://typescriptweekly.com)"
+  ]
+}
