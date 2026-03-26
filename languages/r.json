@@ -1,0 +1,118 @@
+{
+  "Title": "R",
+  "Overview": "R is a language for statistical computing and data visualization.",
+  "Key Features": [
+    "- Rich statistical libraries",
+    "- Strong visualization tools",
+    "- Popular in academia"
+  ],
+  "Basic Syntax": "```r\nprint(\"Hello, R!\")\n```",
+  "Beginner R Learning": [
+    "[R Project](https://www.r-project.org)",
+    "[R Manuals](https://cran.r-project.org/manuals.html)",
+    "[R for Data Science](https://r4ds.hadley.nz)",
+    "[Swirl R](https://swirlstats.com)",
+    "[DataCamp R](https://www.datacamp.com)",
+    "[freeCodeCamp R](https://www.freecodecamp.org)",
+    "[W3Schools R](https://www.w3schools.com/r)",
+    "[Programiz R](https://www.programiz.com/r-programming)",
+    "[GeeksforGeeks R](https://www.geeksforgeeks.org/r-programming-language)",
+    "[TutorialsPoint R](https://www.tutorialspoint.com/r)"
+  ],
+  "R Coding Practice": [
+    "[DataCamp Exercises](https://www.datacamp.com)",
+    "[HackerRank R](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)",
+    "[Kaggle](https://www.kaggle.com)",
+    "[Codewars](https://www.codewars.com)",
+    "[LeetCode](https://leetcode.com)",
+    "[Exercism](https://exercism.org)",
+    "[Project Euler](https://projecteuler.net)",
+    "[Edabit](https://edabit.com)",
+    "[HackerEarth](https://www.hackerearth.com)",
+    "[Kattis](https://open.kattis.com)"
+  ],
+  "R Documentation & References": [
+    "[CRAN](https://cran.r-project.org)",
+    "[R Documentation](https://www.rdocumentation.org)",
+    "[R Manuals](https://cran.r-project.org/manuals.html)",
+    "[Tidyverse Docs](https://www.tidyverse.org)",
+    "[RStudio Cheatsheets](https://posit.co/resources/cheatsheets)",
+    "[R-bloggers](https://www.r-bloggers.com)",
+    "[Stack Abuse R](https://stackabuse.com)",
+    "[DigitalOcean R Tutorials](https://www.digitalocean.com/community/tutorials)",
+    "[R Graph Gallery](https://r-graph-gallery.com)",
+    "[Advanced R](https://adv-r.hadley.nz)"
+  ],
+  "R Development Tools": [
+    "[RStudio](https://posit.co/products/open-source/rstudio)",
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[R GUI](https://cran.r-project.org)",
+    "[R Tools](https://cran.r-project.org/bin/windows/Rtools)",
+    "[Replit](https://replit.com)",
+    "[Jupyter Notebook](https://jupyter.org)",
+    "[Google Colab](https://colab.research.google.com)",
+    "[Posit Workbench](https://posit.co/products/workbench)",
+    "[Posit Connect](https://posit.co/products/connect)",
+    "[GitHub Codespaces](https://github.com/features/codespaces)"
+  ],
+  "Data Analysis & Visualization": [
+    "[ggplot2](https://ggplot2.tidyverse.org)",
+    "[Plotly R](https://plotly.com/r)",
+    "[Shiny](https://shiny.posit.co)",
+    "[R Graph Gallery](https://r-graph-gallery.com)",
+    "[Highcharter](https://jkunst.com/highcharter)",
+    "[Lattice](https://cran.r-project.org/web/packages/lattice)",
+    "[Leaflet R](https://rstudio.github.io/leaflet)",
+    "[dygraphs](https://dygraphs.com)",
+    "[Flexdashboard](https://pkgs.rstudio.com/flexdashboard)",
+    "[DataWrapper](https://www.datawrapper.de)"
+  ],
+  "Data Science & Machine Learning": [
+    "[caret](https://topepo.github.io/caret)",
+    "[tidymodels](https://www.tidymodels.org)",
+    "[mlr3](https://mlr3.mlr-org.com)",
+    "[randomForest](https://cran.r-project.org/package=randomForest)",
+    "[xgboost](https://xgboost.ai)",
+    "[glmnet](https://cran.r-project.org/package=glmnet)",
+    "[h2o.ai](https://h2o.ai)",
+    "[TensorFlow R](https://tensorflow.rstudio.com)",
+    "[Keras R](https://keras.rstudio.com)",
+    "[sparklyr](https://spark.rstudio.com)"
+  ],
+  "Reproducible Research & Reporting": [
+    "[R Markdown](https://rmarkdown.rstudio.com)",
+    "[Quarto](https://quarto.org)",
+    "[Bookdown](https://bookdown.org)",
+    "[Knitr](https://yihui.org/knitr)",
+    "[Shiny](https://shiny.posit.co)",
+    "[RPubs](https://rpubs.com)",
+    "[Posit Cloud](https://posit.cloud)",
+    "[GitHub](https://github.com)",
+    "[OSF](https://osf.io)",
+    "[Zenodo](https://zenodo.org)"
+  ],
+  "R Data Engineering & Databases": [
+    "[DBI](https://cran.r-project.org/package=DBI)",
+    "[dplyr](https://dplyr.tidyverse.org)",
+    "[data.table](https://rdatatable.gitlab.io/data.table)",
+    "[sparklyr](https://spark.rstudio.com)",
+    "[arrow](https://arrow.apache.org/docs/r)",
+    "[duckdb](https://duckdb.org)",
+    "[BigQuery R](https://cloud.google.com/bigquery/docs/reference/libraries)",
+    "[Postgres R](https://cran.r-project.org/package=RPostgres)",
+    "[MongoDB R](https://cran.r-project.org/package=mongolite)",
+    "[Redis R](https://cran.r-project.org/package=redux)"
+  ],
+  "R Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit RStats](https://www.reddit.com/r/rstats)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[RStudio Community](https://community.rstudio.com)",
+    "[R-bloggers](https://www.r-bloggers.com)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)",
+    "[Kaggle Community](https://www.kaggle.com/discussion)"
+  ]
+}
