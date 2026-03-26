@@ -1,0 +1,130 @@
+{
+  "Title": "Swift",
+  "Overview": "Swift is Apple’s modern language for iOS and macOS development.",
+  "Key Features": [
+    "- Safe by design",
+    "- Fast and expressive",
+    "- Interoperable with Objective-C"
+  ],
+  "Basic Syntax": "```swift\nprint(\"Hello, Swift!\")\n```",
+  "Beginner Swift Learning": [
+    "[Swift.org](https://www.swift.org)",
+    "[Swift Language Guide](https://docs.swift.org/swift-book)",
+    "[Apple Swift Tutorials](https://developer.apple.com/tutorials/swiftui)",
+    "[freeCodeCamp Swift](https://www.freecodecamp.org)",
+    "[W3Schools Swift](https://www.w3schools.com/swift)",
+    "[Programiz Swift](https://www.programiz.com/swift)",
+    "[GeeksforGeeks Swift](https://www.geeksforgeeks.org/swift-programming-language)",
+    "[TutorialsPoint Swift](https://www.tutorialspoint.com/swift)",
+    "[Learn Swift Online](https://www.learnswift.io)",
+    "[Hacking with Swift](https://www.hackingwithswift.com)"
+  ],
+  "Swift Coding Practice": [
+    "[LeetCode](https://leetcode.com)",
+    "[HackerRank](https://www.hackerrank.com)",
+    "[Codewars](https://www.codewars.com)",
+    "[CodeSignal](https://codesignal.com)",
+    "[Exercism](https://exercism.org)",
+    "[Project Euler](https://projecteuler.net)",
+    "[Edabit](https://edabit.com)",
+    "[CodingBat](https://codingbat.com)",
+    "[HackerEarth](https://www.hackerearth.com)",
+    "[Kattis](https://open.kattis.com)"
+  ],
+  "Swift Documentation & References": [
+    "[Swift Documentation](https://docs.swift.org)",
+    "[Apple Developer Docs](https://developer.apple.com/documentation)",
+    "[Swift Standard Library](https://developer.apple.com/documentation/swift)",
+    "[Swift Evolution](https://github.com/apple/swift-evolution)",
+    "[Swift Package Manager Docs](https://www.swift.org/package-manager)",
+    "[Swift API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines)",
+    "[Ray Wenderlich Tutorials](https://www.kodeco.com)",
+    "[Stack Abuse Swift](https://stackabuse.com)",
+    "[DigitalOcean Swift Tutorials](https://www.digitalocean.com/community/tutorials)",
+    "[Swift by Sundell](https://www.swiftbysundell.com)"
+  ],
+  "Swift Development Tools": [
+    "[Xcode](https://developer.apple.com/xcode)",
+    "[Swift Playgrounds](https://developer.apple.com/swift-playgrounds)",
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[JetBrains AppCode](https://www.jetbrains.com/objc)",
+    "[Swift Package Manager](https://swift.org/package-manager)",
+    "[SwiftLint](https://github.com/realm/SwiftLint)",
+    "[SwiftFormat](https://github.com/nicklockwood/SwiftFormat)",
+    "[Tuist](https://tuist.io)",
+    "[Fastlane](https://fastlane.tools)",
+    "[SourceKit](https://github.com/apple/sourcekit-lsp)"
+  ],
+  "iOS & Apple App Development": [
+    "[Apple Developer](https://developer.apple.com)",
+    "[App Store Connect](https://appstoreconnect.apple.com)",
+    "[TestFlight](https://developer.apple.com/testflight)",
+    "[Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines)",
+    "[SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui)",
+    "[UIKit Docs](https://developer.apple.com/documentation/uikit)",
+    "[Combine Framework](https://developer.apple.com/documentation/combine)",
+    "[Core Data](https://developer.apple.com/documentation/coredata)",
+    "[ARKit](https://developer.apple.com/augmented-reality)",
+    "[Core ML](https://developer.apple.com/machine-learning)"
+  ],
+  "Swift UI Frameworks": [
+    "[SwiftUI](https://developer.apple.com/xcode/swiftui)",
+    "[UIKit](https://developer.apple.com/documentation/uikit)",
+    "[SpriteKit](https://developer.apple.com/documentation/spritekit)",
+    "[SceneKit](https://developer.apple.com/documentation/scenekit)",
+    "[Metal](https://developer.apple.com/metal)",
+    "[RealityKit](https://developer.apple.com/documentation/realitykit)",
+    "[Texture](https://texturegroup.org)",
+    "[SwiftCharts](https://developer.apple.com/documentation/charts)",
+    "[Lottie](https://airbnb.io/lottie)",
+    "[MapKit](https://developer.apple.com/documentation/mapkit)"
+  ],
+  "Swift Backend Development": [
+    "[Vapor](https://vapor.codes)",
+    "[Kitura](https://kitura.dev)",
+    "[Perfect](https://perfect.org)",
+    "[Hummingbird](https://hummingbird.codes)",
+    "[AWS Swift SDK](https://aws.amazon.com/sdk-for-swift)",
+    "[SwiftNIO](https://github.com/apple/swift-nio)",
+    "[MongoDB Swift Driver](https://www.mongodb.com/docs/drivers/swift)",
+    "[PostgreSQL Swift](https://github.com/vapor/postgres-kit)",
+    "[Redis Swift](https://github.com/swift-server/redis)",
+    "[Swift Server Work Group](https://swift.org/server)"
+  ],
+  "Swift Testing & Quality": [
+    "[XCTest](https://developer.apple.com/documentation/xctest)",
+    "[Quick](https://github.com/Quick/Quick)",
+    "[Nimble](https://github.com/Quick/Nimble)",
+    "[SnapshotTesting](https://github.com/pointfreeco/swift-snapshot-testing)",
+    "[Fastlane](https://fastlane.tools)",
+    "[Danger Swift](https://danger.systems/swift)",
+    "[SwiftFormat](https://github.com/nicklockwood/SwiftFormat)",
+    "[SwiftLint](https://github.com/realm/SwiftLint)",
+    "[Codecov](https://about.codecov.io)",
+    "[SonarQube](https://www.sonarqube.org)"
+  ],
+  "Swift Libraries & Packages": [
+    "[Swift Package Index](https://swiftpackageindex.com)",
+    "[CocoaPods](https://cocoapods.org)",
+    "[Carthage](https://github.com/Carthage/Carthage)",
+    "[Alamofire](https://alamofire.github.io/Alamofire)",
+    "[Kingfisher](https://github.com/onevcat/Kingfisher)",
+    "[SnapKit](https://github.com/SnapKit/SnapKit)",
+    "[Realm](https://realm.io)",
+    "[RxSwift](https://github.com/ReactiveX/RxSwift)",
+    "[CombineCocoa](https://github.com/CombineCommunity/CombineCocoa)",
+    "[SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)"
+  ],
+  "Swift Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit Swift](https://www.reddit.com/r/swift)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[Swift Forums](https://forums.swift.org)",
+    "[Swift Blog](https://www.swift.org/blog)",
+    "[iOS Dev Weekly](https://iosdevweekly.com)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)"
+  ]
+}
