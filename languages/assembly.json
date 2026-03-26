@@ -1,1 +1,118 @@
-
+{
+  "Title": "Assembly",
+  "Overview": "Assembly is a low-level language that provides direct control over hardware.",
+  "Key Features": [
+    "- Extremely fast",
+    "- Hardware-specific",
+    "- Used in embedded and performance-critical code"
+  ],
+  "Basic Syntax": "",
+  "Beginner Assembly Learning": [
+    "[x86 Assembly Guide](https://cs.lmu.edu/~ray/notes/x86assembly)",
+    "[Assembly Tutorial](https://www.tutorialspoint.com/assembly_programming)",
+    "[Programiz Assembly](https://www.programiz.com/assembly-programming)",
+    "[Learn Assembly](https://www.learnassembly.org)",
+    "[NASM Tutorial](https://nasm.us/doc)",
+    "[ARM Assembly Guide](https://developer.arm.com/documentation)",
+    "[Assembly Wikibook](https://en.wikibooks.org/wiki/X86_Assembly)",
+    "[GeeksforGeeks Assembly](https://www.geeksforgeeks.org/assembly-language)",
+    "[Intel Assembly Intro](https://software.intel.com/content/www/us/en/develop/articles/introduction-to-assembly-language.html)",
+    "[Stanford Assembly Guide](https://web.stanford.edu/class/cs107)"
+  ],
+  "Assembly Coding Practice": [
+    "[Codewars](https://www.codewars.com)",
+    "[LeetCode](https://leetcode.com)",
+    "[HackerRank](https://www.hackerrank.com)",
+    "[CodeSignal](https://codesignal.com)",
+    "[Exercism](https://exercism.org)",
+    "[Project Euler](https://projecteuler.net)",
+    "[Kattis](https://open.kattis.com)",
+    "[HackerEarth](https://www.hackerearth.com)",
+    "[Edabit](https://edabit.com)",
+    "[CodingBat](https://codingbat.com)"
+  ],
+  "Assembly Documentation & References": [
+    "[Intel Developer Manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)",
+    "[ARM Architecture Docs](https://developer.arm.com/documentation)",
+    "[NASM Docs](https://nasm.us/docs.php)",
+    "[GNU Assembly Docs](https://sourceware.org/binutils/docs/as)",
+    "[x86 Opcode Reference](https://www.felixcloutier.com/x86)",
+    "[OSDev Assembly](https://wiki.osdev.org/Assembly)",
+    "[LLVM Docs](https://llvm.org/docs)",
+    "[GCC Docs](https://gcc.gnu.org/onlinedocs)",
+    "[Linux Kernel Docs](https://docs.kernel.org)",
+    "[Assembly Wikibook](https://en.wikibooks.org/wiki/X86_Assembly)"
+  ],
+  "Assembly Development Tools": [
+    "[NASM](https://nasm.us)",
+    "[GNU Assembler](https://sourceware.org/binutils)",
+    "[LLVM](https://llvm.org)",
+    "[GCC](https://gcc.gnu.org)",
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[Radare2](https://rada.re)",
+    "[GDB](https://www.gnu.org/software/gdb)",
+    "[IDA Free](https://hex-rays.com/ida-free)",
+    "[Compiler Explorer](https://godbolt.org)",
+    "[OnlineGDB](https://www.onlinegdb.com)"
+  ],
+  "Reverse Engineering & Security": [
+    "[Ghidra](https://ghidra-sre.org)",
+    "[Radare2](https://rada.re)",
+    "[IDA Pro](https://hex-rays.com)",
+    "[Binary Ninja](https://binary.ninja)",
+    "[Hopper](https://www.hopperapp.com)",
+    "[Malware Unicorn](https://malwareunicorn.org)",
+    "[OpenSecurityTraining](https://opensecuritytraining.info)",
+    "[Exploit DB](https://www.exploit-db.com)",
+    "[OWASP](https://owasp.org)",
+    "[Hack The Box](https://www.hackthebox.com)"
+  ],
+  "Embedded & Low-Level Systems": [
+    "[ARM Developer](https://developer.arm.com)",
+    "[Arduino](https://www.arduino.cc)",
+    "[ESP32](https://www.espressif.com)",
+    "[STM32](https://www.st.com/stm32)",
+    "[Microchip](https://www.microchip.com)",
+    "[FreeRTOS](https://www.freertos.org)",
+    "[Zephyr RTOS](https://www.zephyrproject.org)",
+    "[PlatformIO](https://platformio.org)",
+    "[Embedded.com](https://www.embedded.com)",
+    "[TI Embedded](https://www.ti.com)"
+  ],
+  "Computer Architecture Resources": [
+    "[Computer Architecture by MIT](https://ocw.mit.edu)",
+    "[Stanford CS107](https://web.stanford.edu/class/cs107)",
+    "[Berkeley CS61C](https://cs61c.org)",
+    "[RISC-V Docs](https://riscv.org)",
+    "[ARM Architecture](https://developer.arm.com/documentation)",
+    "[Intel Architecture](https://www.intel.com/content/www/us/en/developer)",
+    "[NAND2Tetris](https://www.nand2tetris.org)",
+    "[OSDev Wiki](https://wiki.osdev.org)",
+    "[Linux Kernel Docs](https://docs.kernel.org)",
+    "[LLVM Docs](https://llvm.org/docs)"
+  ],
+  "Operating Systems Development": [
+    "[OSDev Wiki](https://wiki.osdev.org)",
+    "[Linux Kernel](https://kernel.org)",
+    "[xv6](https://pdos.csail.mit.edu/6.828)",
+    "[FreeBSD](https://www.freebsd.org)",
+    "[NetBSD](https://www.netbsd.org)",
+    "[OpenBSD](https://www.openbsd.org)",
+    "[Redox OS](https://www.redox-os.org)",
+    "[MINIX](https://minix3.org)",
+    "[SerenityOS](https://serenityos.org)",
+    "[GNU Hurd](https://www.gnu.org/software/hurd)"
+  ],
+  "Assembly Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit Assembly](https://www.reddit.com/r/Assembly_language)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[Reverse Engineering StackExchange](https://reverseengineering.stackexchange.com)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)",
+    "[OSDev Community](https://forum.osdev.org)",
+    "[Hackaday](https://hackaday.com)"
+  ]
+}
