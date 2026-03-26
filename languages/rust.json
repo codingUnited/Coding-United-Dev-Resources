@@ -1,0 +1,130 @@
+{
+  "Title": "Rust",
+  "Overview": "Rust is a systems programming language focused on safety and performance.",
+  "Key Features": [
+    "- Memory safety without garbage collection",
+    "- Zero-cost abstractions",
+    "- Strong type system"
+  ],
+  "Basic Syntax": "```rust\nfn main() {\n    println!(\"Hello, Rust!\");\n}\n```",
+  "Beginner Rust Learning": [
+    "[Rust Book](https://doc.rust-lang.org/book)",
+    "[Rust by Example](https://doc.rust-lang.org/rust-by-example)",
+    "[Rustlings](https://github.com/rust-lang/rustlings)",
+    "[Exercism Rust Track](https://exercism.org/tracks/rust)",
+    "[freeCodeCamp Rust](https://www.freecodecamp.org)",
+    "[Learn Rust](https://www.rust-lang.org/learn)",
+    "[Rust Tutorial](https://www.tutorialspoint.com/rust)",
+    "[Rust Course](https://github.com/rousseau/rust-course)",
+    "[Rust Programming Language Guide](https://rust-lang.guide)",
+    "[Programiz Rust](https://www.programiz.com/rust)"
+  ],
+  "Rust Coding Practice": [
+    "[Exercism](https://exercism.org)",
+    "[Codewars](https://www.codewars.com)",
+    "[LeetCode](https://leetcode.com)",
+    "[HackerRank](https://www.hackerrank.com)",
+    "[CodeSignal](https://codesignal.com)",
+    "[Project Euler](https://projecteuler.net)",
+    "[Edabit](https://edabit.com)",
+    "[Kattis](https://open.kattis.com)",
+    "[CSES Problem Set](https://cses.fi/problemset)",
+    "[HackerEarth](https://www.hackerearth.com)"
+  ],
+  "Rust Documentation & References": [
+    "[Rust Docs](https://doc.rust-lang.org)",
+    "[Rust Standard Library](https://doc.rust-lang.org/std)",
+    "[Rust Reference](https://doc.rust-lang.org/reference)",
+    "[Rust API Guidelines](https://rust-lang.github.io/api-guidelines)",
+    "[Rustonomicon](https://doc.rust-lang.org/nomicon)",
+    "[Rust RFCs](https://github.com/rust-lang/rfcs)",
+    "[Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook)",
+    "[Crates.io Docs](https://docs.rs)",
+    "[Rust CLI Book](https://rust-cli.github.io/book)",
+    "[Rust Performance Book](https://nnethercote.github.io/perf-book)"
+  ],
+  "Rust Development Tools": [
+    "[Rustup](https://rustup.rs)",
+    "[Cargo](https://doc.rust-lang.org/cargo)",
+    "[Rust Analyzer](https://rust-analyzer.github.io)",
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[IntelliJ Rust](https://www.jetbrains.com/rust)",
+    "[CLion](https://www.jetbrains.com/clion)",
+    "[Replit](https://replit.com)",
+    "[Online Rust Playground](https://play.rust-lang.org)",
+    "[Compiler Explorer](https://godbolt.org)",
+    "[Rust Rover](https://www.jetbrains.com/rustrover)"
+  ],
+  "Rust Web Development": [
+    "[Actix Web](https://actix.rs)",
+    "[Rocket](https://rocket.rs)",
+    "[Axum](https://github.com/tokio-rs/axum)",
+    "[Warp](https://github.com/seanmonstar/warp)",
+    "[Tide](https://github.com/http-rs/tide)",
+    "[Yew](https://yew.rs)",
+    "[Leptos](https://leptos.dev)",
+    "[Dioxus](https://dioxuslabs.com)",
+    "[Seed](https://seed-rs.org)",
+    "[Perseus](https://framesurge.sh/perseus)"
+  ],
+  "Rust Systems Programming": [
+    "[Rust for Linux](https://rust-for-linux.com)",
+    "[Tokio](https://tokio.rs)",
+    "[async-std](https://async.rs)",
+    "[Redox OS](https://www.redox-os.org)",
+    "[Tock OS](https://tockos.org)",
+    "[Rust Embedded](https://www.rust-embedded.org)",
+    "[Ferrocene](https://ferrous-systems.com/ferrocene)",
+    "[Rust Kernel Docs](https://docs.kernel.org)",
+    "[LLVM](https://llvm.org)",
+    "[GCC](https://gcc.gnu.org)"
+  ],
+  "Rust WebAssembly (Major Rust Use Case)": [
+    "[Rust Wasm](https://rustwasm.github.io)",
+    "[wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)",
+    "[wasm-pack](https://rustwasm.github.io/wasm-pack)",
+    "[WebAssembly.org](https://webassembly.org)",
+    "[Wasmtime](https://wasmtime.dev)",
+    "[Wasmer](https://wasmer.io)",
+    "[Emscripten](https://emscripten.org)",
+    "[Deno](https://deno.land)",
+    "[Cloudflare Workers](https://workers.cloudflare.com)",
+    "[Bytecode Alliance](https://bytecodealliance.org)"
+  ],
+  "Rust Libraries & Package Ecosystem": [
+    "[Crates.io](https://crates.io)",
+    "[Docs.rs](https://docs.rs)",
+    "[Serde](https://serde.rs)",
+    "[Tokio](https://tokio.rs)",
+    "[Diesel](https://diesel.rs)",
+    "[SeaORM](https://www.sea-ql.org/SeaORM)",
+    "[Reqwest](https://docs.rs/reqwest)",
+    "[Clap](https://clap.rs)",
+    "[Rayon](https://github.com/rayon-rs/rayon)",
+    "[Polars](https://pola.rs)"
+  ],
+  "Rust DevOps & Infrastructure": [
+    "[Docker](https://www.docker.com)",
+    "[Kubernetes](https://kubernetes.io)",
+    "[AWS Rust SDK](https://aws.amazon.com/sdk-for-rust)",
+    "[Google Cloud Rust](https://cloud.google.com/rust)",
+    "[Azure Rust SDK](https://learn.microsoft.com/azure/developer/rust)",
+    "[Prometheus](https://prometheus.io)",
+    "[Grafana](https://grafana.com)",
+    "[OpenTelemetry](https://opentelemetry.io)",
+    "[NATS](https://nats.io)",
+    "[Apache Kafka](https://kafka.apache.org)"
+  ],
+  "Rust Communities & Developer Resources": [
+    "[Rust Users Forum](https://users.rust-lang.org)",
+    "[Rust Reddit](https://www.reddit.com/r/rust)",
+    "[Rust Discord](https://discord.gg/rust-lang)",
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[Rust Blog](https://blog.rust-lang.org)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)"
+  ]
+}
