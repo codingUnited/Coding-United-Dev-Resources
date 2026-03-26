@@ -35,7 +35,7 @@ HTML structures web content, while CSS styles it.
 </html> 
 
  ```
-
+```
 Beginner HTML & CSS Learning 
 
 Beginner Learning | MDN HTML Guide | https://developer.mozilla.org/en-US/docs/Web/HTML 
@@ -176,5 +176,5 @@ Community | Hacker News | https://news.ycombinator.com
 Community | Lobsters | https://lobste.rs 
 Community | CodeNewbie | https://community.codenewbie.org 
 Community | Hashnode | https://hashnode.com 
-
+```
  
