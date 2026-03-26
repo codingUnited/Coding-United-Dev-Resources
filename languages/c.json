@@ -1,0 +1,130 @@
+{
+  "Title": "C",
+  "Overview": "C is a low-level, high-performance systems programming language.",
+  "Key Features": [
+    "- Manual memory management",
+    "- Extremely fast",
+    "- Foundation for many modern languages"
+  ],
+  "Basic Syntax": "```c\n#include <stdio.h>\n\nint main() {\n    printf(\"Hello, C!\");\n    return 0;\n}\n```",
+  "Beginner C Learning": [
+    "[Learn C](https://www.learn-c.org)",
+    "[W3Schools C](https://www.w3schools.com/c)",
+    "[GeeksforGeeks C](https://www.geeksforgeeks.org/c-programming-language)",
+    "[Programiz C](https://www.programiz.com/c-programming)",
+    "[TutorialsPoint C](https://www.tutorialspoint.com/cprogramming)",
+    "[SoloLearn C](https://www.sololearn.com)",
+    "[CProgramming.com](https://www.cprogramming.com)",
+    "[freeCodeCamp C](https://www.freecodecamp.org)",
+    "[GNU C Manual](https://www.gnu.org/software/gnu-c-manual)",
+    "[C Language Tutorial](https://www.studytonight.com/c)"
+  ],
+  "C Coding Practice": [
+    "[HackerRank](https://www.hackerrank.com)",
+    "[LeetCode](https://leetcode.com)",
+    "[Codewars](https://www.codewars.com)",
+    "[CodeSignal](https://codesignal.com)",
+    "[Exercism](https://exercism.org)",
+    "[Project Euler](https://projecteuler.net)",
+    "[Edabit](https://edabit.com)",
+    "[Kattis](https://open.kattis.com)",
+    "[CSES Problem Set](https://cses.fi/problemset)",
+    "[HackerEarth](https://www.hackerearth.com)"
+  ],
+  "C Documentation & References": [
+    "[C Reference](https://en.cppreference.com/w/c)",
+    "[GNU C Library Docs](https://www.gnu.org/software/libc/manual)",
+    "[POSIX Standard](https://pubs.opengroup.org/onlinepubs)",
+    "[Linux Man Pages](https://man7.org/linux/man-pages)",
+    "[ISO C Standard Draft](https://www.open-std.org/jtc1/sc22/wg14)",
+    "[C Programming Wikibook](https://en.wikibooks.org/wiki/C_Programming)",
+    "[IBM C Docs](https://www.ibm.com/docs/en/c)",
+    "[Microsoft C Docs](https://learn.microsoft.com/cpp/c-language)",
+    "[DigitalOcean C Tutorials](https://www.digitalocean.com/community/tutorials)",
+    "[Stack Abuse C](https://stackabuse.com)"
+  ],
+  "C Development Tools": [
+    "[GCC](https://gcc.gnu.org)",
+    "[Clang](https://clang.llvm.org)",
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[Code::Blocks](https://www.codeblocks.org)",
+    "[Dev-C++](https://sourceforge.net/projects/orwelldevcpp)",
+    "[Eclipse CDT](https://www.eclipse.org/cdt)",
+    "[OnlineGDB](https://www.onlinegdb.com)",
+    "[Replit](https://replit.com)",
+    "[Compiler Explorer](https://godbolt.org)",
+    "[Wandbox](https://wandbox.org)"
+  ],
+  "Systems Programming with C": [
+    "[Linux Kernel Docs](https://docs.kernel.org)",
+    "[GNU Project](https://www.gnu.org)",
+    "[POSIX Docs](https://pubs.opengroup.org)",
+    "[FreeBSD Docs](https://docs.freebsd.org)",
+    "[NetBSD Docs](https://www.netbsd.org/docs)",
+    "[OpenBSD Docs](https://www.openbsd.org)",
+    "[LLVM](https://llvm.org)",
+    "[BusyBox](https://busybox.net)",
+    "[Coreutils](https://www.gnu.org/software/coreutils)",
+    "[Systemd](https://systemd.io)"
+  ],
+  "Embedded C Development": [
+    "[Arduino](https://www.arduino.cc)",
+    "[ARM Developer](https://developer.arm.com)",
+    "[STM32](https://www.st.com/stm32)",
+    "[ESP32](https://www.espressif.com)",
+    "[Microchip](https://www.microchip.com)",
+    "[Zephyr RTOS](https://www.zephyrproject.org)",
+    "[FreeRTOS](https://www.freertos.org)",
+    "[PlatformIO](https://platformio.org)",
+    "[Embedded.com](https://www.embedded.com)",
+    "[TI Embedded](https://www.ti.com)"
+  ],
+  "Debugging & Performance Tools": [
+    "[GDB](https://www.gnu.org/software/gdb)",
+    "[Valgrind](https://valgrind.org)",
+    "[AddressSanitizer](https://clang.llvm.org/docs/AddressSanitizer.html)",
+    "[Perf](https://perf.wiki.kernel.org)",
+    "[ltrace](https://linux.die.net/man/1/ltrace)",
+    "[strace](https://strace.io)",
+    "[Heaptrack](https://github.com/KDE/heaptrack)",
+    "[Intel VTune](https://www.intel.com/vtune)",
+    "[Linux Perf Tools](https://perf.wiki.kernel.org)",
+    "[DTrace](https://dtrace.org)"
+  ],
+  "C Libraries": [
+    "[GNU C Library](https://www.gnu.org/software/libc)",
+    "[GLib](https://developer.gnome.org/glib)",
+    "[OpenSSL](https://www.openssl.org)",
+    "[zlib](https://zlib.net)",
+    "[ncurses](https://invisible-island.net/ncurses)",
+    "[libuv](https://libuv.org)",
+    "[SDL](https://libsdl.org)",
+    "[SQLite](https://sqlite.org)",
+    "[libcurl](https://curl.se/libcurl)",
+    "[musl libc](https://musl.libc.org)"
+  ],
+  "Operating Systems & Kernel Development": [
+    "[Linux Kernel](https://kernel.org)",
+    "[FreeBSD](https://www.freebsd.org)",
+    "[NetBSD](https://www.netbsd.org)",
+    "[OpenBSD](https://www.openbsd.org)",
+    "[MINIX](https://minix3.org)",
+    "[OSDev](https://wiki.osdev.org)",
+    "[Redox OS](https://www.redox-os.org)",
+    "[GNU Hurd](https://www.gnu.org/software/hurd)",
+    "[SerenityOS](https://serenityos.org)",
+    "[xv6 OS](https://pdos.csail.mit.edu/6.828)"
+  ],
+  "C Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit C Programming](https://www.reddit.com/r/C_Programming)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[CodeProject](https://www.codeproject.com)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)",
+    "[Hashnode](https://hashnode.com)",
+    "[EmbeddedRelated](https://www.embeddedrelated.com)"
+  ]
+}
