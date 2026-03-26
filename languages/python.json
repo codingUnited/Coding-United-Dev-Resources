@@ -2,12 +2,8 @@
   "Title": "Python",
   "Overview": "Python is a high‑level, interpreted language known for readability and versatility. ",
   "Key Features": ["- Simple, readable syntax","- Huge ecosystem of libraries","- Strong community support"],
-  "Basic Syntax": "
-  ```python\n
-  print(\"Hello, Python!"\)\n 
-  ```
-  ",
-  "Beginner Python Learning": ["freeCodeCamp | https://www.freecodecamp.org","Codecademy | https://www.codecademy.com","Coursera | https://www.coursera.org ","Khan Academy | https://www.khanacademy.org ","DataCamp | https://www.datacamp.com ","MIT OpenCourseWare | https://ocw.mit.edu","SoloLearn | https://www.sololearn.com","Google Developers | https://developers.google.com","LearnPython | https://www.learnpython.org","W3Schools | https://www.w3schools.com/python"],
+  "Basic Syntax": "```python\nprint(\"Hello, Python!\")\n```",
+  "Beginner Python Learning": ["[freeCodeCamp](https://www.freecodecamp.org)","Codecademy | https://www.codecademy.com","Coursera | https://www.coursera.org ","Khan Academy | https://www.khanacademy.org ","DataCamp | https://www.datacamp.com ","MIT OpenCourseWare | https://ocw.mit.edu","SoloLearn | https://www.sololearn.com","Google Developers | https://developers.google.com","LearnPython | https://www.learnpython.org","W3Schools | https://www.w3schools.com/python"],
   "Interactive Python Practice":["Codewars | https://www.codewars.com","Exercism | https://exercism.org","LeetCode | https://leetcode.com","HackerRank | https://www.hackerrank.com","Edabit | https://edabit.com","Practice Python | https://www.practicepython.org","CheckiO | https://checkio.org","CodingBat | https://codingbat.com","CodeSignal | https://codesignal.com ","Project Euler | https://projecteuler.net"],
   "Documentation & Tutorials":["Python Docs | https://docs.python.org ","Real Python | https://realpython.com","GeeksforGeeks | https://www.geeksforgeeks.org/python","TutorialsPoint | https://www.tutorialspoint.com/python","Programiz | https://www.programiz.com/python-programming","OverIQ | https://overiq.com/python-101","DigitalOcean Tutorials | https://www.digitalocean.com/community/tutorials","Full Stack Python | https://www.fullstackpython.com","Python Wiki | https://wiki.python.org","Stack Abuse | https://stackabuse.com"],
   "Development Tools & IDE Platforms":["Replit | replit - select language","Visual Studio Code | https://code.visualstudio.com","PyCharm | https://www.jetbrains.com/pycharm","Jupyter Notebook | https://jupyter.org","Google Colab | https://colab.research.google.com","Anaconda | https://www.anaconda.com","Spyder | https://www.spyder-ide.org","PythonAnywhere | https://www.pythonanywhere.com","Glitch | https://glitch.com","CodeSandbox | https://codesandbox.io"],
