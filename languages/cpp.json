@@ -1,0 +1,130 @@
+{
+  "Title": "C++",
+  "Overview": "C++ extends C with object-oriented and generic programming features.",
+  "Key Features": [
+    "- OOP support",
+    "- Templates and generics",
+    "- High performance"
+  ],
+  "Basic Syntax": "```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    cout << \"Hello, C++!\";\n}\n```",
+  "Beginner C++ Learning": [
+    "[LearnCpp](https://www.learncpp.com)",
+    "[W3Schools C++](https://www.w3schools.com/cpp)",
+    "[Codecademy C++](https://www.codecademy.com/learn/learn-c-plus-plus)",
+    "[freeCodeCamp](https://www.freecodecamp.org)",
+    "[GeeksforGeeks C++](https://www.geeksforgeeks.org/c-plus-plus)",
+    "[Programiz C++](https://www.programiz.com/cpp-programming)",
+    "[TutorialsPoint C++](https://www.tutorialspoint.com/cplusplus)",
+    "[SoloLearn C++](https://www.sololearn.com)",
+    "[CPlusPlus.com](https://cplusplus.com)",
+    "[StudyPlan.dev C++](https://www.studyplan.dev/cpp)"
+  ],
+  "C++ Coding Practice": [
+    "[LeetCode](https://leetcode.com)",
+    "[HackerRank](https://www.hackerrank.com)",
+    "[Codewars](https://www.codewars.com)",
+    "[CodeSignal](https://codesignal.com)",
+    "[Exercism](https://exercism.org)",
+    "[Project Euler](https://projecteuler.net)",
+    "[CodingBat](https://codingbat.com)",
+    "[Edabit](https://edabit.com)",
+    "[Sphere Online Judge (SPOJ)](https://www.spoj.com)",
+    "[TopCoder](https://www.topcoder.com)"
+  ],
+  "Competitive Programming (Very C++ Heavy)": [
+    "[Codeforces](https://codeforces.com)",
+    "[AtCoder](https://atcoder.jp)",
+    "[TopCoder](https://www.topcoder.com)",
+    "[SPOJ](https://www.spoj.com)",
+    "[HackerEarth](https://www.hackerearth.com)",
+    "[LeetCode](https://leetcode.com)",
+    "[USACO Training](https://usaco.guide)",
+    "[Kattis](https://open.kattis.com)",
+    "[CSES Problem Set](https://cses.fi/problemset)",
+    "[CodeChef](https://www.codechef.com)"
+  ],
+  "C++ Documentation & References": [
+    "[cppreference](https://en.cppreference.com)",
+    "[CPlusPlus](https://cplusplus.com)",
+    "[Microsoft C++ Docs](https://learn.microsoft.com/cpp)",
+    "[GNU GCC Docs](https://gcc.gnu.org/onlinedocs)",
+    "[ISO C++ Foundation](https://isocpp.org)",
+    "[Boost Docs](https://www.boost.org/doc)",
+    "[LLVM Documentation](https://llvm.org/docs)",
+    "[Clang Docs](https://clang.llvm.org/docs)",
+    "[Qt Docs](https://doc.qt.io)",
+    "[Unreal Engine C++ Docs](https://docs.unrealengine.com)"
+  ],
+  "C++ Development Tools & IDEs": [
+    "[Visual Studio](https://visualstudio.microsoft.com)",
+    "[CLion](https://www.jetbrains.com/clion)",
+    "[Code::Blocks](https://www.codeblocks.org)",
+    "[Dev-C++](https://sourceforge.net/projects/orwelldevcpp)",
+    "[Eclipse CDT](https://www.eclipse.org/cdt)",
+    "[VS Code](https://code.visualstudio.com)",
+    "[Replit](replit - select language)",
+    "[OnlineGDB](https://www.onlinegdb.com)",
+    "[Compiler Explorer](https://godbolt.org)",
+    "[Wandbox](https://wandbox.org)"
+  ],
+  "Game Development with C++": [
+    "[Unreal Engine](https://www.unrealengine.com)",
+    "[Unity (C++ Plugins)](https://unity.com)",
+    "[Godot](https://godotengine.org)",
+    "[SDL](https://libsdl.org)",
+    "[SFML](https://www.sfml-dev.org)",
+    "[Ogre3D](https://www.ogre3d.org)",
+    "[CryEngine](https://www.cryengine.com)",
+    "[OpenGL](https://www.opengl.org)",
+    "[Vulkan](https://www.vulkan.org)",
+    "[Raylib](https://www.raylib.com)"
+  ],
+  "Systems Programming / Low-Level Development": [
+    "[Linux Kernel Docs](https://docs.kernel.org)",
+    "[POSIX Standard](https://pubs.opengroup.org/onlinepubs)",
+    "[LLVM](https://llvm.org)",
+    "[GCC](https://gcc.gnu.org)",
+    "[Clang](https://clang.llvm.org)",
+    "[Boost Libraries](https://www.boost.org)",
+    "[Qt Framework](https://www.qt.io)",
+    "[CMake](https://cmake.org)",
+    "[Ninja Build](https://ninja-build.org)",
+    "[Valgrind](https://valgrind.org)"
+  ],
+  "Data Structures & Algorithms (C++ Core Skill)": [
+    "[GeeksforGeeks DSA](https://www.geeksforgeeks.org/data-structures)",
+    "[VisuAlgo](https://visualgo.net)",
+    "[HackerRank Algorithms](https://www.hackerrank.com/domains/algorithms)",
+    "[LeetCode](https://leetcode.com)",
+    "[TopCoder Tutorials](https://www.topcoder.com/thrive)",
+    "[USACO Guide](https://usaco.guide)",
+    "[CP Algorithms](https://cp-algorithms.com)",
+    "[Codeforces EDU](https://codeforces.com/edu)",
+    "[Algorithm Visualizer](https://algorithm-visualizer.org)",
+    "[Big-O Cheat Sheet](https://www.bigocheatsheet.com)"
+  ],
+  "C++ Libraries & Frameworks": [
+    "[Boost](https://www.boost.org)",
+    "[Qt](https://www.qt.io)",
+    "[POCO](https://pocoproject.org)",
+    "[OpenCV](https://opencv.org)",
+    "[Eigen](https://eigen.tuxfamily.org)",
+    "[CGAL](https://www.cgal.org)",
+    "[TBB (Threading Building Blocks)](https://www.intel.com/content/www/us/en/developer/tools/oneapi/onetbb.html)",
+    "[gRPC C++](https://grpc.io)",
+    "[ZeroMQ](https://zeromq.org)",
+    "[wxWidgets](https://www.wxwidgets.org)"
+  ],
+  "C++ Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit C++](https://www.reddit.com/r/cpp)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[ISO C++ Community](https://isocpp.org/community)",
+    "[CodeProject](https://www.codeproject.com)",
+    "[C++ Slack](https://cpplang.slack.com)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)"
+  ]
+}
