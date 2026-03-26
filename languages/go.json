@@ -1,0 +1,130 @@
+{
+  "Title": "Go (Golang)",
+  "Overview": "Go is a compiled language designed for simplicity and concurrency.",
+  "Key Features": [
+    "- Built-in concurrency (goroutines)",
+    "- Fast compilation",
+    "- Simple syntax"
+  ],
+  "Basic Syntax": "```go\npackage main\nimport \"fmt\"\n\nfunc main() {\n    fmt.Println(\"Hello, Go!\")\n}\n```",
+  "Beginner Go Learning": [
+    "[Go Official Tour](https://go.dev/tour)",
+    "[Go by Example](https://gobyexample.com)",
+    "[Go Documentation](https://go.dev/doc)",
+    "[freeCodeCamp Go](https://www.freecodecamp.org)",
+    "[W3Schools Go](https://www.w3schools.com/go)",
+    "[GeeksforGeeks Go](https://www.geeksforgeeks.org/golang)",
+    "[TutorialsPoint Go](https://www.tutorialspoint.com/go)",
+    "[Programiz Go](https://www.programiz.com/golang)",
+    "[Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)",
+    "[Go Bootcamp](https://www.golangbootcamp.com)"
+  ],
+  "Go Coding Practice": [
+    "[LeetCode](https://leetcode.com)",
+    "[HackerRank](https://www.hackerrank.com)",
+    "[Codewars](https://www.codewars.com)",
+    "[CodeSignal](https://codesignal.com)",
+    "[Exercism](https://exercism.org)",
+    "[Project Euler](https://projecteuler.net)",
+    "[Edabit](https://edabit.com)",
+    "[Kattis](https://open.kattis.com)",
+    "[CSES Problem Set](https://cses.fi/problemset)",
+    "[HackerEarth](https://www.hackerearth.com)"
+  ],
+  "Go Documentation & References": [
+    "[Go Documentation](https://go.dev/doc)",
+    "[Go Standard Library](https://pkg.go.dev/std)",
+    "[Effective Go](https://go.dev/doc/effective_go)",
+    "[Go Wiki](https://go.dev/wiki)",
+    "[Go Packages](https://pkg.go.dev)",
+    "[Go Blog](https://go.dev/blog)",
+    "[Go Proverbs](https://go-proverbs.github.io)",
+    "[Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)",
+    "[Go Style Guide](https://google.github.io/styleguide/go)",
+    "[DigitalOcean Go Tutorials](https://www.digitalocean.com/community/tutorials)"
+  ],
+  "Go Development Tools": [
+    "[Go Official Site](https://go.dev)",
+    "[Visual Studio Code](https://code.visualstudio.com)",
+    "[GoLand](https://www.jetbrains.com/go)",
+    "[LiteIDE](https://github.com/visualfc/liteide)",
+    "[Replit](https://replit.com)",
+    "[OnlineGDB](https://www.onlinegdb.com)",
+    "[Go Playground](https://play.golang.org)",
+    "[Compiler Explorer](https://godbolt.org)",
+    "[Delve Debugger](https://github.com/go-delve/delve)",
+    "[Air Live Reload](https://github.com/cosmtrek/air)"
+  ],
+  "Go Web Frameworks": [
+    "[Gin](https://gin-gonic.com)",
+    "[Echo](https://echo.labstack.com)",
+    "[Fiber](https://gofiber.io)",
+    "[Beego](https://beego.vip)",
+    "[Revel](https://revel.github.io)",
+    "[Chi](https://go-chi.io)",
+    "[Buffalo](https://gobuffalo.io)",
+    "[Iris](https://iris-go.com)",
+    "[Go Kit](https://gokit.io)",
+    "[Gorilla Toolkit](https://www.gorillatoolkit.org)"
+  ],
+  "Go Cloud & Microservices": [
+    "[Docker](https://www.docker.com)",
+    "[Kubernetes](https://kubernetes.io)",
+    "[AWS Go SDK](https://aws.amazon.com/sdk-for-go)",
+    "[Google Cloud Go](https://cloud.google.com/go)",
+    "[Azure Go SDK](https://learn.microsoft.com/azure/developer/go)",
+    "[Prometheus](https://prometheus.io)",
+    "[Grafana](https://grafana.com)",
+    "[gRPC](https://grpc.io)",
+    "[NATS](https://nats.io)",
+    "[Apache Kafka](https://kafka.apache.org)"
+  ],
+  "Go DevOps & Infrastructure": [
+    "[Terraform](https://www.terraform.io)",
+    "[Docker](https://www.docker.com)",
+    "[Kubernetes](https://kubernetes.io)",
+    "[Consul](https://www.consul.io)",
+    "[Vault](https://www.vaultproject.io)",
+    "[Nomad](https://www.nomadproject.io)",
+    "[Helm](https://helm.sh)",
+    "[OpenTelemetry](https://opentelemetry.io)",
+    "[ArgoCD](https://argo-cd.readthedocs.io)",
+    "[HashiCorp](https://www.hashicorp.com)"
+  ],
+  "Go Libraries & Packages": [
+    "[Go Packages](https://pkg.go.dev)",
+    "[Cobra CLI](https://cobra.dev)",
+    "[Viper Config](https://github.com/spf13/viper)",
+    "[GORM ORM](https://gorm.io)",
+    "[SQLX](https://jmoiron.github.io/sqlx)",
+    "[Go Redis](https://github.com/go-redis/redis)",
+    "[Go Kit](https://gokit.io)",
+    "[Logrus](https://github.com/sirupsen/logrus)",
+    "[Zap Logger](https://github.com/uber-go/zap)",
+    "[Testify](https://github.com/stretchr/testify)"
+  ],
+  "Go Testing & Performance": [
+    "[Go Testing Docs](https://go.dev/doc/tutorial/add-a-test)",
+    "[Testify](https://github.com/stretchr/testify)",
+    "[Go Benchmarking](https://go.dev/blog/pprof)",
+    "[Go Coverage](https://go.dev/blog/cover)",
+    "[Ginkgo](https://onsi.github.io/ginkgo)",
+    "[Gomega](https://onsi.github.io/gomega)",
+    "[Vegeta Load Testing](https://github.com/tsenart/vegeta)",
+    "[K6](https://k6.io)",
+    "[Apache JMeter](https://jmeter.apache.org)",
+    "[Locust](https://locust.io)"
+  ],
+  "Go Communities & Developer Resources": [
+    "[Stack Overflow](https://stackoverflow.com)",
+    "[Reddit Golang](https://www.reddit.com/r/golang)",
+    "[Go Forum](https://forum.golangbridge.org)",
+    "[GitHub](https://github.com)",
+    "[Dev.to](https://dev.to)",
+    "[Go Weekly](https://golangweekly.com)",
+    "[Hacker News](https://news.ycombinator.com)",
+    "[Lobsters](https://lobste.rs)",
+    "[CodeNewbie](https://community.codenewbie.org)",
+    "[Hashnode](https://hashnode.com)"
+  ]
+}
