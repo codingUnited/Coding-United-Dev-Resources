@@ -4,7 +4,7 @@
   "Key Features": ["- Simple, readable syntax","- Huge ecosystem of libraries","- Strong community support"],
   "Basic Syntax": "
   ```python
-  print("Hello, Python!") 
+  print(\"\Hello, Python!\"\) 
   ```
   ",
   "Beginner Python Learning": ["freeCodeCamp | https://www.freecodecamp.org","Codecademy | https://www.codecademy.com","Coursera | https://www.coursera.org ","Khan Academy | https://www.khanacademy.org ","DataCamp | https://www.datacamp.com ","MIT OpenCourseWare | https://ocw.mit.edu","SoloLearn | https://www.sololearn.com","Google Developers | https://developers.google.com","LearnPython | https://www.learnpython.org","W3Schools | https://www.w3schools.com/python"],
