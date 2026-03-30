@@ -7,6 +7,7 @@
     "- Popular in academia"
   ],
   "Basic Syntax": "```r\nprint(\"Hello, R!\")\n```",
+  "Logo": "https://github.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/rlogo.png",
   "Beginner R Learning": [
     "[R Project](https://www.r-project.org)",
     "[R Manuals](https://cran.r-project.org/manuals.html)",
