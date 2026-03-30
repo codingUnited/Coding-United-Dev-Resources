@@ -7,6 +7,7 @@
     "- Large enterprise ecosystem"
   ],
   "Basic Syntax": "```java\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, Java!\");\n    }\n}\n```",
+  "Logo": "https://github.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/javalogo.png",
   "Beginner Java Learning": [
     "[Codecademy Java](https://www.codecademy.com/learn/learn-java)",
     "[freeCodeCamp Java](https://www.freecodecamp.org)",
