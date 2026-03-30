@@ -7,6 +7,7 @@
     "- Interoperable with Objective-C"
   ],
   "Basic Syntax": "```swift\nprint(\"Hello, Swift!\")\n```",
+  "Logo": "https://github.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/swiftlogo.png",
   "Beginner Swift Learning": [
     "[Swift.org](https://www.swift.org)",
     "[Swift Language Guide](https://docs.swift.org/swift-book)",
