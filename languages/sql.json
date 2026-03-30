@@ -7,6 +7,7 @@
     "- Widely supported"
   ],
   "Basic Syntax": "```sql\nSELECT * FROM users;\n```",
+  "Logo": "https://github.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/sqllogo.png",
   "Beginner SQL Learning": [
     "[SQLBolt](https://sqlbolt.com)",
     "[W3Schools SQL](https://www.w3schools.com/sql)",
