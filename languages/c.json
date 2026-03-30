@@ -7,6 +7,7 @@
     "- Foundation for many modern languages"
   ],
   "Basic Syntax": "```c\n#include <stdio.h>\n\nint main() {\n    printf(\"Hello, C!\");\n    return 0;\n}\n```",
+  "Logo": "https://github.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/c.png",
   "Beginner C Learning": [
     "[Learn C](https://www.learn-c.org)",
     "[W3Schools C](https://www.w3schools.com/c)",
