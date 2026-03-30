@@ -7,6 +7,7 @@
     "- Interoperable with Java"
   ],
   "Basic Syntax": "```kotlin\nfun main() {\n    println(\"Hello, Kotlin!\")\n}\n```",
+  "Logo": "https://github.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/kotlinlogo.png",
   "Beginner Kotlin Learning": [
     "[Kotlin Official Site](https://kotlinlang.org)",
     "[Kotlin Documentation](https://kotlinlang.org/docs)",
