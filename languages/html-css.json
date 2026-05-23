@@ -7,7 +7,7 @@
     "- Foundation for all web development"
   ],
   "Basic Syntax": "```html\n<!DOCTYPE html>\n<html>\n  <body>\n    <h1>Hello, Web!</h1>\n  </body>\n</html>\n```",
-  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/htmlcsslogo.png",
+  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/main/languages/logos/htmlcsslogo.png",
   "Beginner HTML & CSS Learning": [
     "[MDN HTML Guide](https://developer.mozilla.org/en-US/docs/Web/HTML)",
     "[MDN CSS Guide](https://developer.mozilla.org/en-US/docs/Web/CSS)",

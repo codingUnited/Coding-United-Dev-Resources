@@ -7,7 +7,7 @@
     "- Huge ecosystem (Node.js, React, etc.)"
   ],
   "Basic Syntax": "```javascript\nconsole.log(\"Hello, JavaScript!\");\n```",
-  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/javascriptlogo.png",
+  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/main/languages/logos/javascriptlogo.png",
   "Beginner JavaScript Learning": [
     "[MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)",
     "[freeCodeCamp JavaScript](https://www.freecodecamp.org)",

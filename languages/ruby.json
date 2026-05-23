@@ -7,7 +7,7 @@
     "- Rails ecosystem"
   ],
   "Basic Syntax": "```ruby\nputs \"Hello, Ruby!\"\n```",
-  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/rubylogo.png",
+  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/main/languages/logos/rubylogo.png",
   "Beginner Ruby Learning": [
     "[Ruby Official Site](https://www.ruby-lang.org)",
     "[Ruby Documentation](https://www.ruby-lang.org/en/documentation)",

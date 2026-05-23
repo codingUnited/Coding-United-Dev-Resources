@@ -7,7 +7,7 @@
     "- High performance"
   ],
   "Basic Syntax": "```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    cout << \"Hello, C++!\";\n}\n```",
-  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/cpplogo.png",
+  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/main/languages/logos/cpplogo.png",
   "Beginner C++ Learning": [
     "[LearnCpp](https://www.learncpp.com)",
     "[W3Schools C++](https://www.w3schools.com/cpp)",

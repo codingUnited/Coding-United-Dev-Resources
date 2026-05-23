@@ -7,7 +7,7 @@
     "- Excellent tooling with .NET"
   ],
   "Basic Syntax": "```csharp\nConsole.WriteLine(\"Hello, C#!\");\n```",
-  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/csharp.png",
+  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/main/languages/logos/csharp.png",
   "Beginner C# Learning": [
     "[Microsoft Learn C#](https://learn.microsoft.com/dotnet/csharp)",
     "[freeCodeCamp C#](https://www.freecodecamp.org)",

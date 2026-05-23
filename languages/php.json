@@ -7,7 +7,7 @@
     "- Powers WordPress and many CMS platforms"
   ],
   "Basic Syntax": "```php\n<?php\necho \"Hello, PHP!\";\n?>\n```",
-  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/phplogo.png",
+  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/main/languages/logos/phplogo.png",
   "Beginner PHP Learning": [
     "[PHP Official Site](https://www.php.net)",
     "[PHP Manual](https://www.php.net/manual/en)",
