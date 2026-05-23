@@ -3,7 +3,7 @@
   "Overview": "Python is a high‑level, interpreted language known for readability and versatility. ",
   "Key Features": ["- Simple, readable syntax","- Huge ecosystem of libraries","- Strong community support"],
   "Basic Syntax": "```python\nprint(\"Hello, Python!\")\n```",
-  "Logo": "https://github.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/pythonlogo.png",
+  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/pythonlogo.png",
   "Beginner Python Learning": [
     "[freeCodeCamp](https://www.freecodecamp.org)",
     "[Codecademy](https://www.codecademy.com)",

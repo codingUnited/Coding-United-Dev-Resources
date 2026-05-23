@@ -7,7 +7,7 @@
     "- Strong type system"
   ],
   "Basic Syntax": "```rust\nfn main() {\n    println!(\"Hello, Rust!\");\n}\n```",
-  "Logo": "https://github.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/rustlogo.png",
+  "Logo": "https://raw.githubusercontent.com/codingUnited/Coding-United-Dev-Resources/blob/main/languages/logos/rustlogo.png",
   "Beginner Rust Learning": [
     "[Rust Book](https://doc.rust-lang.org/book)",
     "[Rust by Example](https://doc.rust-lang.org/rust-by-example)",
